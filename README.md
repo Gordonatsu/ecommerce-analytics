@@ -11,9 +11,9 @@
 
 ## 🚀 Getting Started & Execution Guide
 Follow these sequential steps to set up the environment and run the entire implementation pipeline from scratch.  
-### Clone or Extract the Directory
+### 1. Clone or Extract the Directory
    Ensure all scripts are placed within the same working directory on your local file system.
-### Set Up a Virtual Environment & Install Dependencies
+### 2. Set Up a Virtual Environment & Install Dependencies
   It is highly recommended to use a clean virtual environment (venv or conda) to isolate dependencies. 
   #### On Windows
   ```bash
@@ -38,12 +38,12 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-## 3. Generate the Synthetic Dataset
+### 3. Generate the Synthetic Dataset
 Before opening the Jupyter notebook, run the pipeline's data ingestion layer once to populate the raw data baselines.
 ```bash
 python dataset_generator.py
 ```
-## 4. Execute the Analytical Pipeline
+### 4. Execute the Analytical Pipeline
 Launch Jupyter Notebook or your preferred interactive environment (e.g., VS Code Jupyter Extension) and open the primary workbook
 ```bash
 jupyter notebook ecommerce_analysis.ipynb
