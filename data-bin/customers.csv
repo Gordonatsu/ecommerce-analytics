@@ -1,0 +1,2041 @@
+customer_id,age,gender,region,signup_date,preferred_device,loyalty_tier
+C0001,30.0,Male,Cape Coast,2026-05-29,Mobile,Gold
+C0002,45.0,Male,Kumasi,2024-02-28,Desktop,Silver
+C0003,65.0,Male,Cape Coast,2024-03-08,Desktop,Platinum
+C0004,46.0,Male,Accra,2025-06-29,Desktop,Gold
+C0005,30.0,Male,Accra,2025-03-21,Mobile,Bronze
+C0006,63.0,Male,Tamale,2024-01-02,Mobile,Silver
+C0007,52.0,Male,Tamale,2024-07-24,Tablet,Silver
+C0008,23.0,Female,Cape Coast,2024-05-25,Tablet,Platinum
+C0009,35.0,Male,Cape Coast,2026-05-23,,Silver
+C0010,68.0,Female,Tamale,2023-07-24,Tablet,Gold
+C0011,22.0,Female,Cape Coast,2025-12-10,Desktop,Bronze
+C0012,64.0,Male,Kumasi,2025-01-04,Mobile,Gold
+C0013,42.0,Male,Cape Coast,2025-01-06,Tablet,Silver
+C0014,19.0,Male,Accra,2024-12-23,Mobile,Bronze
+C0015,27.0,Male,Accra,2025-01-27,Mobile,Gold
+C0016,,Male,Cape Coast,2026-06-05,Mobile,Gold
+C0017,,Female,Kumasi,2025-03-19,Tablet,Silver
+C0018,62.0,Female,Kumasi,2023-12-26,,Platinum
+C0019,22.0,Male,Accra,2023-12-30,Mobile,Platinum
+C0020,50.0,Female,Tamale,2026-02-01,Desktop,Platinum
+C0021,18.0,Male,Accra,2024-10-16,Mobile,Platinum
+C0022,35.0,Female,Accra,2024-07-05,Mobile,Silver
+C0023,49.0,Male,Cape Coast,2025-05-08,Desktop,Silver
+C0024,64.0,Female,Kumasi,2024-06-18,Desktop,Platinum
+C0025,66.0,Male,Accra,2024-03-23,Desktop,Bronze
+C0026,28.0,Male,Cape Coast,2026-04-28,Mobile,Bronze
+C0027,38.0,Male,Kumasi,2026-03-03,Desktop,Platinum
+C0028,43.0,Female,Kumasi,2024-07-03,Desktop,Bronze
+C0029,42.0,Male,Tamale,2023-12-10,Mobile,Platinum
+C0030,39.0,Female,Tamale,2024-07-07,Desktop,Platinum
+C0031,44.0,Female,Kumasi,2025-02-18,Mobile,Gold
+C0032,66.0,Male,Accra,2026-03-17,Tablet,Bronze
+C0033,30.0,Female,Accra,2024-08-22,Mobile,Platinum
+C0034,50.0,Male,Accra,2025-09-19,Tablet,Bronze
+C0035,51.0,Male,Accra,2023-09-02,Tablet,Bronze
+C0036,58.0,Male,Tamale,2024-06-22,Mobile,Silver
+C0037,52.0,Male,Cape Coast,2023-08-07,Mobile,Platinum
+C0038,18.0,Female,Takoradi,2025-04-09,Mobile,Gold
+C0039,38.0,Male,Takoradi,2024-03-26,Desktop,Silver
+C0040,65.0,Female,Tamale,2026-01-20,Desktop,Bronze
+C0041,23.0,Male,Tamale,2025-01-05,Tablet,Bronze
+C0042,45.0,Male,Cape Coast,2025-11-21,Mobile,Gold
+C0043,34.0,Male,Takoradi,2025-01-31,Mobile,Silver
+C0044,22.0,Female,Takoradi,2023-12-24,Mobile,Platinum
+C0045,48.0,Female,Cape Coast,2023-06-14,Tablet,Bronze
+C0046,22.0,Female,Accra,2025-12-18,Mobile,Gold
+C0047,55.0,Male,Accra,2024-06-19,Tablet,Silver
+C0048,20.0,Female,Takoradi,2025-06-12,Tablet,Silver
+C0049,40.0,Female,Kumasi,2025-08-01,Tablet,Gold
+C0050,54.0,Female,Takoradi,2026-03-09,Mobile,Bronze
+C0051,54.0,Female,Takoradi,2025-06-16,Mobile,Bronze
+C0052,27.0,Female,Kumasi,2024-12-09,Tablet,Gold
+C0053,27.0,Male,Tamale,2024-02-17,Tablet,Platinum
+C0054,36.0,Male,Accra,2026-04-24,Mobile,Silver
+C0055,34.0,Male,Takoradi,2026-01-29,Tablet,Silver
+C0056,38.0,Female,Kumasi,2024-03-20,Mobile,Gold
+C0057,31.0,Female,Accra,2025-09-03,Desktop,Silver
+C0058,26.0,Male,Accra,2023-09-19,Desktop,Platinum
+C0059,63.0,Male,Kumasi,2026-04-28,Mobile,Silver
+C0060,,Female,Accra,2024-11-25,Mobile,Gold
+C0061,,Female,Kumasi,2025-05-10,Desktop,Silver
+C0062,62.0,Male,Tamale,2025-04-30,Mobile,Platinum
+C0063,30.0,Male,Kumasi,2023-10-11,Desktop,Gold
+C0064,21.0,Female,Kumasi,2024-03-15,Mobile,Bronze
+C0065,18.0,Male,Tamale,2026-03-23,Desktop,Gold
+C0066,66.0,Male,Takoradi,2026-01-26,Desktop,Platinum
+C0067,57.0,Female,Accra,2024-01-07,Mobile,Gold
+C0068,49.0,Male,Cape Coast,2024-07-25,Desktop,Bronze
+C0069,51.0,Male,Cape Coast,2025-05-05,Desktop,Gold
+C0070,45.0,Female,Tamale,2024-09-22,Tablet,Bronze
+C0071,48.0,Female,Cape Coast,2023-08-15,Mobile,Gold
+C0072,25.0,Male,Tamale,2024-09-05,Mobile,Silver
+C0073,56.0,Female,Tamale,2025-02-11,Mobile,Gold
+C0074,43.0,Female,Accra,2025-05-07,,Gold
+C0075,51.0,Female,Tamale,2023-06-17,Desktop,Platinum
+C0076,20.0,Female,Cape Coast,2024-12-31,Mobile,Silver
+C0077,67.0,Female,Tamale,2025-11-28,Tablet,Silver
+C0078,29.0,Female,Tamale,2025-03-22,Tablet,Bronze
+C0079,18.0,Female,Takoradi,2024-09-30,Mobile,Platinum
+C0080,61.0,Female,Tamale,2025-07-10,Desktop,Platinum
+C0081,22.0,Male,Cape Coast,2024-07-12,Desktop,Silver
+C0082,47.0,Male,Takoradi,2024-11-09,Tablet,Gold
+C0083,47.0,Male,Kumasi,2024-07-13,Tablet,Gold
+C0084,34.0,Male,Kumasi,2025-05-22,Mobile,Bronze
+C0085,65.0,Male,Kumasi,2025-11-27,Desktop,Bronze
+C0086,64.0,Female,Tamale,2023-08-21,Tablet,Silver
+C0087,40.0,Female,Tamale,2023-10-29,Desktop,Silver
+C0088,32.0,Male,Accra,2024-04-26,Mobile,Platinum
+C0089,54.0,Male,Kumasi,2026-02-07,Tablet,Platinum
+C0090,38.0,Male,Cape Coast,2026-01-24,Mobile,Bronze
+C0091,31.0,Female,Kumasi,2024-03-18,Desktop,Gold
+C0092,19.0,Female,Cape Coast,2023-11-08,Tablet,Platinum
+C0093,28.0,Female,Kumasi,2025-03-14,Tablet,Platinum
+C0094,68.0,Female,Takoradi,2024-03-18,Mobile,Gold
+C0095,56.0,Female,Kumasi,2023-08-20,Desktop,Platinum
+C0096,,Male,Takoradi,2025-01-27,Mobile,Gold
+C0097,51.0,Female,Takoradi,2023-10-13,Tablet,Bronze
+C0098,55.0,Male,Kumasi,2025-06-17,Mobile,Platinum
+C0099,67.0,Male,Kumasi,2025-06-05,Mobile,Platinum
+C0100,,Female,Takoradi,2023-08-02,Tablet,Platinum
+C0101,35.0,Female,Accra,2025-09-22,Mobile,Platinum
+C0102,47.0,Female,Cape Coast,2025-12-20,Tablet,Bronze
+C0103,32.0,Female,Tamale,2023-11-05,Mobile,Gold
+C0104,44.0,Female,Tamale,2024-02-05,Desktop,Silver
+C0105,68.0,Female,Kumasi,2026-02-13,Desktop,Platinum
+C0106,51.0,Female,Accra,2026-02-21,Desktop,Gold
+C0107,69.0,Female,Kumasi,2024-10-15,Desktop,Silver
+C0108,55.0,Male,Tamale,2024-10-06,Tablet,Bronze
+C0109,50.0,Male,Tamale,2025-05-18,,Platinum
+C0110,41.0,Male,Accra,2025-06-26,Desktop,Platinum
+C0111,32.0,Female,Kumasi,2023-11-13,Desktop,Gold
+C0112,47.0,Female,Tamale,2024-03-02,Desktop,Platinum
+C0113,59.0,Female,Accra,2025-03-03,Desktop,Bronze
+C0114,68.0,Male,Takoradi,2023-12-03,Mobile,Bronze
+C0115,34.0,Male,Accra,2026-05-18,Mobile,Silver
+C0116,22.0,Male,Cape Coast,2023-07-07,Mobile,Silver
+C0117,46.0,Male,Tamale,2025-08-27,Tablet,Bronze
+C0118,21.0,Male,Tamale,2024-03-15,Tablet,Gold
+C0119,27.0,Female,Kumasi,2026-05-24,Tablet,Bronze
+C0120,34.0,Male,Takoradi,2026-05-01,Mobile,Bronze
+C0121,27.0,Female,Cape Coast,2025-04-12,Tablet,Platinum
+C0122,34.0,Female,Kumasi,2024-09-13,Mobile,Silver
+C0123,37.0,Male,Takoradi,2025-10-09,Tablet,Bronze
+C0124,41.0,Male,Takoradi,2023-09-13,Tablet,Platinum
+C0125,22.0,Female,Accra,2025-11-06,Tablet,Gold
+C0126,51.0,Male,Tamale,2025-06-11,Desktop,Bronze
+C0127,23.0,Female,Takoradi,2024-11-30,Tablet,Platinum
+C0128,19.0,Male,Tamale,2025-06-22,Mobile,Gold
+C0129,30.0,Female,Tamale,2026-02-12,Desktop,Gold
+C0130,60.0,Female,Kumasi,2025-12-01,Mobile,Gold
+C0131,60.0,Female,Kumasi,2023-09-14,,Platinum
+C0132,65.0,Female,Accra,2026-04-27,Desktop,Gold
+C0133,28.0,Male,Tamale,2024-02-20,Mobile,Gold
+C0134,68.0,Female,Takoradi,2024-01-30,Desktop,Gold
+C0135,64.0,Male,Cape Coast,2024-12-16,Mobile,Bronze
+C0136,40.0,Male,Tamale,2023-12-07,Desktop,Silver
+C0137,33.0,Female,Tamale,2025-05-15,Desktop,Bronze
+C0138,48.0,Male,Takoradi,2023-06-08,Mobile,Platinum
+C0139,28.0,Male,Takoradi,2026-01-24,Tablet,Gold
+C0140,33.0,Female,Cape Coast,2023-12-19,Tablet,Gold
+C0141,25.0,Female,Cape Coast,2024-09-10,Desktop,Gold
+C0142,21.0,Female,Takoradi,2023-09-26,,Gold
+C0143,,Male,Accra,2024-10-08,Tablet,Silver
+C0144,21.0,Female,Accra,2023-11-11,Tablet,Silver
+C0145,,Male,Kumasi,2024-12-14,Tablet,Platinum
+C0146,,Female,Cape Coast,2024-08-07,Tablet,Gold
+C0147,49.0,Male,Kumasi,2023-07-09,,Silver
+C0148,20.0,Female,Kumasi,2026-05-21,Desktop,Bronze
+C0149,44.0,Male,Takoradi,2025-10-09,Mobile,Bronze
+C0150,46.0,Female,Kumasi,2024-10-25,Tablet,Platinum
+C0151,49.0,Male,Accra,2023-11-06,Tablet,Gold
+C0152,67.0,Female,Tamale,2026-04-02,Desktop,Gold
+C0153,,Male,Accra,2024-12-13,Desktop,Platinum
+C0154,36.0,Male,Accra,2026-01-16,Desktop,Platinum
+C0155,38.0,Male,Cape Coast,2024-09-29,Tablet,Bronze
+C0156,,Male,Kumasi,2026-05-18,Tablet,Gold
+C0157,35.0,Male,Kumasi,2023-10-01,Mobile,Platinum
+C0158,45.0,Male,Cape Coast,2025-07-06,Desktop,Platinum
+C0159,59.0,Female,Takoradi,2024-01-18,Tablet,Platinum
+C0160,39.0,Female,Cape Coast,2026-04-25,Tablet,Bronze
+C0161,38.0,Male,Kumasi,2024-02-04,Tablet,Silver
+C0162,23.0,Female,Accra,2023-09-28,,Silver
+C0163,18.0,Male,Cape Coast,2024-03-28,Mobile,Silver
+C0164,22.0,Male,Tamale,2023-07-14,Desktop,Platinum
+C0165,58.0,Female,Accra,2024-03-13,,Gold
+C0166,29.0,Female,Tamale,2023-09-20,Mobile,Silver
+C0167,43.0,Female,Cape Coast,2024-10-17,Tablet,Silver
+C0168,63.0,Female,Accra,2025-08-28,Tablet,Silver
+C0169,51.0,Male,Takoradi,2024-05-20,Mobile,Bronze
+C0170,,Male,Kumasi,2025-04-09,Desktop,Gold
+C0171,31.0,Female,Accra,2024-03-01,Desktop,Gold
+C0172,43.0,Female,Takoradi,2026-04-05,Tablet,Platinum
+C0173,62.0,Female,Accra,2025-05-07,Tablet,Bronze
+C0174,44.0,Female,Takoradi,2025-11-12,Tablet,Gold
+C0175,26.0,Male,Accra,2024-03-09,Mobile,Bronze
+C0176,43.0,Female,Cape Coast,2023-08-02,Mobile,Silver
+C0177,,Female,Cape Coast,2025-10-08,Tablet,Platinum
+C0178,39.0,Female,Kumasi,2024-11-26,Tablet,Platinum
+C0179,64.0,Female,Accra,2026-03-29,Desktop,Gold
+C0180,47.0,Female,Takoradi,2025-10-09,Desktop,Bronze
+C0181,60.0,Male,Takoradi,2025-06-01,Desktop,Platinum
+C0182,65.0,Female,Tamale,2023-07-03,Tablet,Bronze
+C0183,34.0,Female,Accra,2025-06-19,Desktop,Gold
+C0184,43.0,Female,Accra,2026-04-11,Desktop,Bronze
+C0185,,Female,Tamale,2026-01-07,Mobile,Silver
+C0186,18.0,Female,Cape Coast,2023-09-20,Desktop,Platinum
+C0187,25.0,Male,Kumasi,2024-05-09,Desktop,Silver
+C0188,66.0,Female,Tamale,2023-09-27,Tablet,Platinum
+C0189,52.0,Male,Accra,2025-01-24,Tablet,Silver
+C0190,69.0,Male,Takoradi,2024-12-31,Tablet,Bronze
+C0191,32.0,Female,Accra,2024-06-25,Mobile,Bronze
+C0192,64.0,Female,Accra,2023-07-08,Tablet,Silver
+C0193,39.0,Female,Takoradi,2025-06-17,Tablet,Gold
+C0194,31.0,Female,Tamale,2025-04-26,Desktop,Silver
+C0195,43.0,Female,Cape Coast,2024-04-19,Mobile,Platinum
+C0196,45.0,Male,Cape Coast,2024-12-25,Tablet,Silver
+C0197,40.0,Male,Takoradi,2025-11-04,Desktop,Gold
+C0198,31.0,Female,Accra,2025-03-17,Desktop,Gold
+C0199,41.0,Female,Kumasi,2026-04-23,Desktop,Platinum
+C0200,19.0,Female,Takoradi,2024-03-28,Tablet,Platinum
+C0201,62.0,Female,Takoradi,2024-03-08,Mobile,Silver
+C0202,,Female,Kumasi,2023-12-03,Desktop,Bronze
+C0203,31.0,Female,Tamale,2024-03-31,Tablet,Platinum
+C0204,68.0,Female,Kumasi,2023-07-08,,Bronze
+C0205,24.0,Male,Cape Coast,2024-11-27,Tablet,Gold
+C0206,20.0,Male,Tamale,2025-12-12,Mobile,Platinum
+C0207,64.0,Male,Kumasi,2024-08-11,Desktop,Silver
+C0208,40.0,Male,Tamale,2024-06-17,Desktop,Gold
+C0209,63.0,Female,Accra,2025-08-21,Desktop,Platinum
+C0210,60.0,Female,Tamale,2025-05-09,Tablet,Bronze
+C0211,64.0,Male,Kumasi,2026-03-16,Tablet,Gold
+C0212,62.0,Male,Accra,2023-08-11,Desktop,Bronze
+C0213,35.0,Male,Tamale,2024-11-20,Mobile,Gold
+C0214,55.0,Male,Accra,2025-12-14,Desktop,Bronze
+C0215,52.0,Female,Takoradi,2024-09-24,Desktop,Platinum
+C0216,68.0,Male,Kumasi,2026-01-05,Tablet,Platinum
+C0217,32.0,Male,Kumasi,2025-06-07,Mobile,Bronze
+C0218,42.0,Female,Cape Coast,2024-05-31,Tablet,Silver
+C0219,54.0,Female,Cape Coast,2023-07-22,Mobile,Silver
+C0220,45.0,Female,Takoradi,2025-02-08,Desktop,Gold
+C0221,27.0,Male,Tamale,2025-04-18,Desktop,Silver
+C0222,56.0,Male,Tamale,2024-06-07,Desktop,Gold
+C0223,34.0,Female,Takoradi,2025-10-10,Desktop,Gold
+C0224,56.0,Male,Tamale,2024-06-25,Desktop,Bronze
+C0225,39.0,Male,Tamale,2025-02-17,Tablet,Gold
+C0226,43.0,Female,Takoradi,2025-03-08,Mobile,Platinum
+C0227,61.0,Female,Accra,2024-11-17,Tablet,Bronze
+C0228,42.0,Female,Takoradi,2025-11-20,Mobile,Gold
+C0229,34.0,Male,Kumasi,2023-12-27,Tablet,Gold
+C0230,30.0,Male,Accra,2024-01-11,Tablet,Bronze
+C0231,37.0,Female,Tamale,2025-03-11,Mobile,Gold
+C0232,42.0,Male,Accra,2024-11-07,Desktop,Gold
+C0233,21.0,Female,Kumasi,2026-01-11,Mobile,Silver
+C0234,27.0,Female,Cape Coast,2025-04-13,Tablet,Gold
+C0235,20.0,Male,Takoradi,2026-05-19,Desktop,Gold
+C0236,58.0,Female,Accra,2025-08-07,Desktop,Bronze
+C0237,62.0,Male,Kumasi,2024-04-07,Tablet,Platinum
+C0238,35.0,Female,Accra,2024-02-17,Desktop,Bronze
+C0239,64.0,Female,Cape Coast,2026-01-23,Mobile,Platinum
+C0240,53.0,Female,Takoradi,2025-05-08,Tablet,Platinum
+C0241,64.0,Female,Accra,2025-11-28,Tablet,Silver
+C0242,39.0,Female,Accra,2023-07-18,Tablet,Gold
+C0243,51.0,Male,Accra,2025-02-20,Tablet,Platinum
+C0244,,Female,Tamale,2024-10-16,Mobile,Silver
+C0245,25.0,Male,Accra,2025-06-22,,Platinum
+C0246,57.0,Male,Accra,2023-12-06,Mobile,Silver
+C0247,66.0,Female,Tamale,2024-10-22,Desktop,Platinum
+C0248,61.0,Male,Tamale,2023-12-10,,Bronze
+C0249,36.0,Female,Cape Coast,2024-04-16,Desktop,Gold
+C0250,59.0,Male,Takoradi,2024-08-30,Mobile,Platinum
+C0251,58.0,Female,Kumasi,2024-08-28,Desktop,Bronze
+C0252,54.0,Female,Cape Coast,2025-04-11,Tablet,Gold
+C0253,23.0,Male,Tamale,2023-12-23,Desktop,Silver
+C0254,69.0,Male,Tamale,2025-10-12,Mobile,Silver
+C0255,43.0,Male,Accra,2026-02-18,Desktop,Silver
+C0256,51.0,Male,Cape Coast,2025-05-29,Mobile,Bronze
+C0257,62.0,Male,Cape Coast,2024-01-13,Mobile,Silver
+C0258,23.0,Female,Kumasi,2023-06-30,Tablet,Bronze
+C0259,54.0,Female,Kumasi,2024-03-23,Mobile,Gold
+C0260,50.0,Male,Accra,2026-05-17,Tablet,Bronze
+C0261,39.0,Male,Accra,2023-08-09,Desktop,Silver
+C0262,38.0,Female,Accra,2023-07-21,,Gold
+C0263,23.0,Male,Kumasi,2023-06-08,Tablet,Platinum
+C0264,23.0,Male,Accra,2023-08-06,Desktop,Platinum
+C0265,65.0,Female,Cape Coast,2025-12-29,Tablet,Bronze
+C0266,21.0,Female,Cape Coast,2024-08-12,Mobile,Bronze
+C0267,47.0,Female,Tamale,2025-05-02,Tablet,Bronze
+C0268,28.0,Male,Tamale,2025-01-17,Desktop,Platinum
+C0269,47.0,Male,Tamale,2025-09-18,Tablet,Platinum
+C0270,48.0,Male,Accra,2025-01-30,Desktop,Silver
+C0271,41.0,Male,Kumasi,2024-02-10,Desktop,Gold
+C0272,26.0,Female,Cape Coast,2023-07-01,Tablet,Gold
+C0273,20.0,Female,Cape Coast,2025-02-28,Tablet,Platinum
+C0274,68.0,Male,Accra,2025-10-29,Tablet,Silver
+C0275,48.0,Female,Tamale,2025-05-11,Mobile,Platinum
+C0276,57.0,Female,Tamale,2023-11-14,Desktop,Platinum
+C0277,54.0,Male,Takoradi,2025-09-03,Desktop,Gold
+C0278,,Female,Takoradi,2024-11-06,Mobile,Platinum
+C0279,41.0,Male,Accra,2024-08-19,Mobile,Bronze
+C0280,48.0,Female,Accra,2023-12-30,Tablet,Gold
+C0281,23.0,Male,Cape Coast,2023-11-16,Mobile,Gold
+C0282,19.0,Male,Tamale,2023-08-07,Desktop,Platinum
+C0283,37.0,Male,Takoradi,2026-04-24,Tablet,Gold
+C0284,45.0,Female,Accra,2023-07-09,,Silver
+C0285,28.0,Male,Tamale,2025-08-01,Mobile,Bronze
+C0286,21.0,Female,Cape Coast,2025-09-26,Desktop,Bronze
+C0287,32.0,Female,Cape Coast,2025-10-02,Mobile,Platinum
+C0288,,Male,Cape Coast,2024-02-24,Tablet,Gold
+C0289,66.0,Male,Kumasi,2026-02-19,Desktop,Gold
+C0290,47.0,Female,Takoradi,2025-04-08,Mobile,Silver
+C0291,55.0,Male,Cape Coast,2025-08-28,Tablet,Platinum
+C0292,68.0,Male,Kumasi,2025-07-27,Tablet,Bronze
+C0293,19.0,Male,Cape Coast,2023-08-03,Mobile,Platinum
+C0294,32.0,Female,Tamale,2024-08-05,,Silver
+C0295,28.0,Female,Takoradi,2025-07-12,Tablet,Gold
+C0296,25.0,Male,Accra,2023-11-08,Mobile,Silver
+C0297,43.0,Male,Accra,2025-04-18,Desktop,Platinum
+C0298,68.0,Female,Tamale,2026-02-06,Tablet,Platinum
+C0299,62.0,Female,Takoradi,2025-03-08,,Bronze
+C0300,61.0,Female,Tamale,2023-12-31,Mobile,Gold
+C0301,22.0,Female,Cape Coast,2026-02-12,Tablet,Gold
+C0302,23.0,Male,Kumasi,2024-11-28,Desktop,Bronze
+C0303,43.0,Male,Kumasi,2026-04-20,Desktop,Silver
+C0304,,Male,Takoradi,2026-02-20,Desktop,Gold
+C0305,36.0,Male,Accra,2023-07-25,Desktop,Platinum
+C0306,37.0,Male,Kumasi,2023-11-10,Desktop,Silver
+C0307,,Female,Accra,2025-05-17,Desktop,Bronze
+C0308,37.0,Female,Accra,2024-12-01,Desktop,Bronze
+C0309,66.0,Female,Cape Coast,2026-04-03,Desktop,Platinum
+C0310,29.0,Female,Takoradi,2023-08-04,,Platinum
+C0311,64.0,Male,Takoradi,2023-09-21,Mobile,Platinum
+C0312,18.0,Female,Accra,2023-12-21,Desktop,Bronze
+C0313,43.0,Male,Tamale,2025-03-26,Tablet,Platinum
+C0314,31.0,Male,Tamale,2024-12-04,Desktop,Gold
+C0315,55.0,Male,Takoradi,2024-09-01,Mobile,Bronze
+C0316,,Male,Cape Coast,2024-08-09,Tablet,Silver
+C0317,28.0,Female,Takoradi,2026-04-06,Tablet,Silver
+C0318,53.0,Male,Accra,2025-10-06,Mobile,Gold
+C0319,30.0,Male,Kumasi,2025-10-08,,Silver
+C0320,60.0,Male,Kumasi,2025-11-02,Tablet,Platinum
+C0321,20.0,Female,Cape Coast,2026-04-04,,Platinum
+C0322,50.0,Female,Takoradi,2026-04-23,Mobile,Platinum
+C0323,23.0,Male,Tamale,2024-07-10,Desktop,Gold
+C0324,67.0,Female,Cape Coast,2024-10-27,Mobile,Gold
+C0325,27.0,Male,Takoradi,2023-07-22,Desktop,Platinum
+C0326,22.0,Male,Accra,2024-10-26,Desktop,Gold
+C0327,40.0,Male,Accra,2026-05-29,Tablet,Platinum
+C0328,27.0,Female,Cape Coast,2025-05-16,Tablet,Bronze
+C0329,61.0,Female,Cape Coast,2023-11-10,Tablet,Silver
+C0330,,Female,Cape Coast,2023-09-09,Desktop,Silver
+C0331,30.0,Male,Tamale,2023-12-26,Mobile,Gold
+C0332,57.0,Male,Cape Coast,2025-11-20,Tablet,Silver
+C0333,19.0,Male,Kumasi,2024-10-18,Tablet,Platinum
+C0334,37.0,Female,Cape Coast,2024-06-15,Tablet,Silver
+C0335,18.0,Female,Takoradi,2025-07-22,,Platinum
+C0336,54.0,Female,Takoradi,2026-06-06,Tablet,Bronze
+C0337,26.0,Female,Accra,2023-10-03,Desktop,Bronze
+C0338,34.0,Female,Takoradi,2026-04-17,Desktop,Silver
+C0339,26.0,Female,Accra,2026-05-29,Tablet,Silver
+C0340,28.0,Female,Takoradi,2025-05-27,Tablet,Platinum
+C0341,32.0,Male,Cape Coast,2023-12-21,,Bronze
+C0342,41.0,Female,Cape Coast,2025-10-16,Desktop,Gold
+C0343,55.0,Male,Cape Coast,2023-08-08,Mobile,Platinum
+C0344,52.0,Female,Accra,2025-07-12,Desktop,Gold
+C0345,47.0,Male,Kumasi,2026-02-26,Desktop,Platinum
+C0346,48.0,Male,Kumasi,2025-07-19,Mobile,Silver
+C0347,66.0,Male,Takoradi,2025-04-09,Mobile,Bronze
+C0348,22.0,Female,Cape Coast,2024-10-28,Mobile,Platinum
+C0349,61.0,Male,Kumasi,2024-02-16,Mobile,Silver
+C0350,67.0,Female,Accra,2023-12-15,Desktop,Gold
+C0351,31.0,Male,Tamale,2025-06-29,Tablet,Gold
+C0352,28.0,Female,Kumasi,2026-01-17,Tablet,Silver
+C0353,26.0,Female,Tamale,2025-08-06,Mobile,Gold
+C0354,51.0,Female,Tamale,2024-03-21,Desktop,Platinum
+C0355,29.0,Female,Kumasi,2025-06-02,Mobile,Silver
+C0356,52.0,Female,Accra,2024-08-03,Tablet,Platinum
+C0357,52.0,Female,Cape Coast,2025-09-11,Mobile,Bronze
+C0358,18.0,Female,Accra,2025-05-20,Mobile,Gold
+C0359,57.0,Female,Cape Coast,2026-06-05,Mobile,Platinum
+C0360,39.0,Male,Kumasi,2025-11-05,Desktop,Gold
+C0361,46.0,Male,Tamale,2025-09-17,Mobile,Platinum
+C0362,25.0,Female,Kumasi,2023-07-30,Desktop,Bronze
+C0363,28.0,Female,Kumasi,2024-05-26,Mobile,Gold
+C0364,58.0,Male,Takoradi,2024-10-21,Mobile,Silver
+C0365,54.0,Male,Takoradi,2025-12-10,Desktop,Silver
+C0366,31.0,Female,Tamale,2025-06-28,Tablet,Bronze
+C0367,47.0,Male,Accra,2025-02-16,Desktop,Silver
+C0368,52.0,Male,Cape Coast,2024-05-26,Tablet,Platinum
+C0369,38.0,Male,Takoradi,2026-05-14,Mobile,Gold
+C0370,54.0,Male,Accra,2025-01-24,Mobile,Platinum
+C0371,22.0,Female,Accra,2023-07-16,Mobile,Platinum
+C0372,36.0,Male,Cape Coast,2025-08-28,Tablet,Silver
+C0373,31.0,Male,Takoradi,2025-05-17,Desktop,Bronze
+C0374,43.0,Female,Kumasi,2024-05-02,Tablet,Platinum
+C0375,21.0,Male,Accra,2025-10-31,Tablet,Gold
+C0376,42.0,Male,Cape Coast,2024-06-16,,Bronze
+C0377,62.0,Female,Tamale,2024-11-01,Mobile,Platinum
+C0378,59.0,Female,Takoradi,2024-06-27,Tablet,Bronze
+C0379,42.0,Female,Accra,2024-12-03,Desktop,Silver
+C0380,35.0,Male,Cape Coast,2025-05-25,Tablet,Gold
+C0381,57.0,Male,Accra,2024-03-13,,Gold
+C0382,25.0,Male,Tamale,2025-12-03,Tablet,Platinum
+C0383,56.0,Male,Kumasi,2025-10-19,Mobile,Platinum
+C0384,57.0,Male,Takoradi,2024-05-15,Mobile,Bronze
+C0385,31.0,Male,Accra,2024-06-10,Desktop,Gold
+C0386,49.0,Female,Cape Coast,2025-06-14,Desktop,Gold
+C0387,68.0,Male,Kumasi,2024-08-02,Desktop,Gold
+C0388,55.0,Male,Takoradi,2023-09-03,Desktop,Bronze
+C0389,50.0,Female,Tamale,2025-07-29,Desktop,Platinum
+C0390,,Female,Takoradi,2026-02-17,Mobile,Platinum
+C0391,,Female,Takoradi,2025-08-10,Tablet,Gold
+C0392,,Male,Tamale,2025-11-22,Mobile,Platinum
+C0393,42.0,Male,Cape Coast,2025-06-30,Desktop,Gold
+C0394,34.0,Male,Accra,2023-09-04,Desktop,Gold
+C0395,50.0,Female,Tamale,2023-07-11,Tablet,Platinum
+C0396,64.0,Male,Tamale,2026-01-30,Desktop,Platinum
+C0397,19.0,Male,Takoradi,2025-03-21,Tablet,Platinum
+C0398,31.0,Female,Accra,2025-09-30,Mobile,Platinum
+C0399,57.0,Female,Cape Coast,2023-12-04,Tablet,Silver
+C0400,57.0,Male,Kumasi,2025-06-15,Tablet,Platinum
+C0401,68.0,Male,Kumasi,2025-04-19,Mobile,Silver
+C0402,56.0,Female,Takoradi,2025-02-15,Desktop,Bronze
+C0403,68.0,Male,Tamale,2024-07-26,Desktop,Gold
+C0404,23.0,Female,Accra,2023-10-14,Tablet,Silver
+C0405,23.0,Female,Tamale,2024-06-08,Desktop,Gold
+C0406,20.0,Male,Accra,2025-03-10,Mobile,Silver
+C0407,24.0,Female,Cape Coast,2026-06-02,Desktop,Bronze
+C0408,,Female,Takoradi,2024-08-30,Tablet,Platinum
+C0409,,Male,Cape Coast,2024-10-30,Desktop,Platinum
+C0410,59.0,Male,Accra,2026-04-01,Mobile,Bronze
+C0411,69.0,Female,Kumasi,2025-11-24,Tablet,Platinum
+C0412,32.0,Male,Takoradi,2023-10-18,Tablet,Gold
+C0413,64.0,Male,Cape Coast,2023-10-24,Tablet,Gold
+C0414,46.0,Female,Kumasi,2024-04-20,Tablet,Silver
+C0415,50.0,Female,Cape Coast,2025-07-04,Mobile,Bronze
+C0416,69.0,Male,Kumasi,2024-02-04,Mobile,Platinum
+C0417,47.0,Male,Takoradi,2024-08-09,Tablet,Gold
+C0418,56.0,Female,Cape Coast,2025-05-08,Mobile,Bronze
+C0419,44.0,Male,Takoradi,2024-10-07,Desktop,Platinum
+C0420,53.0,Female,Tamale,2025-10-25,Tablet,Bronze
+C0421,46.0,Male,Takoradi,2025-10-06,Tablet,Bronze
+C0422,55.0,Female,Tamale,2025-05-22,Tablet,Gold
+C0423,50.0,Male,Cape Coast,2025-07-12,Tablet,Silver
+C0424,54.0,Male,Tamale,2025-12-11,Tablet,Bronze
+C0425,44.0,Male,Cape Coast,2026-04-30,Mobile,Gold
+C0426,50.0,Male,Kumasi,2025-07-16,,Silver
+C0427,21.0,Female,Cape Coast,2023-06-28,Desktop,Bronze
+C0428,39.0,Female,Kumasi,2024-06-09,Tablet,Gold
+C0429,19.0,Male,Takoradi,2023-10-15,Tablet,Bronze
+C0430,27.0,Male,Cape Coast,2025-08-20,Tablet,Silver
+C0431,22.0,Male,Cape Coast,2025-06-24,Tablet,Gold
+C0432,27.0,Male,Accra,2024-06-12,Mobile,Bronze
+C0433,50.0,Female,Kumasi,2025-06-10,Tablet,Platinum
+C0434,55.0,Male,Tamale,2025-12-08,Tablet,Gold
+C0435,30.0,Female,Tamale,2025-12-17,Mobile,Platinum
+C0436,48.0,Female,Tamale,2025-01-11,Mobile,Bronze
+C0437,64.0,Male,Tamale,2025-11-30,Desktop,Platinum
+C0438,53.0,Female,Kumasi,2023-12-30,Desktop,Silver
+C0439,62.0,Female,Takoradi,2024-12-15,Tablet,Gold
+C0440,41.0,Female,Kumasi,2024-12-28,Desktop,Bronze
+C0441,69.0,Female,Kumasi,2024-12-04,Desktop,Bronze
+C0442,32.0,Female,Tamale,2026-01-22,,Silver
+C0443,46.0,Male,Accra,2024-10-11,Desktop,Platinum
+C0444,25.0,Female,Kumasi,2024-02-16,Mobile,Gold
+C0445,22.0,Female,Kumasi,2024-05-11,Mobile,Platinum
+C0446,46.0,Female,Tamale,2024-05-28,Desktop,Platinum
+C0447,64.0,Male,Accra,2024-05-13,Desktop,Platinum
+C0448,21.0,Male,Kumasi,2024-07-19,Tablet,Gold
+C0449,29.0,Male,Accra,2024-06-16,Desktop,Platinum
+C0450,62.0,Female,Takoradi,2023-09-12,Tablet,Bronze
+C0451,19.0,Male,Tamale,2025-09-06,Mobile,Gold
+C0452,44.0,Female,Tamale,2023-09-16,Desktop,Bronze
+C0453,,Female,Accra,2025-01-16,Tablet,Silver
+C0454,68.0,Female,Cape Coast,2024-08-30,Desktop,Bronze
+C0455,68.0,Female,Cape Coast,2023-08-03,Desktop,Gold
+C0456,53.0,Male,Kumasi,2025-11-22,Mobile,Platinum
+C0457,53.0,Female,Takoradi,2023-07-06,Tablet,Gold
+C0458,43.0,Male,Kumasi,2024-11-22,Tablet,Platinum
+C0459,60.0,Male,Accra,2025-09-02,Mobile,Silver
+C0460,44.0,Female,Tamale,2025-02-28,Tablet,Platinum
+C0461,22.0,Male,Cape Coast,2026-06-06,Tablet,Silver
+C0462,37.0,Female,Cape Coast,2024-07-12,Desktop,Silver
+C0463,28.0,Female,Cape Coast,2025-03-12,Tablet,Gold
+C0464,27.0,Female,Cape Coast,2024-10-22,Tablet,Platinum
+C0465,,Female,Tamale,2026-04-28,Mobile,Gold
+C0466,55.0,Female,Accra,2023-10-11,Desktop,Gold
+C0467,23.0,Male,Cape Coast,2023-08-24,Desktop,Gold
+C0468,,Male,Accra,2024-09-24,Tablet,Platinum
+C0469,40.0,Male,Cape Coast,2025-03-11,Tablet,Platinum
+C0470,64.0,Male,Kumasi,2025-10-10,Mobile,Bronze
+C0471,43.0,Male,Accra,2023-11-23,Desktop,Gold
+C0472,63.0,Female,Kumasi,2024-10-31,Desktop,Silver
+C0473,60.0,Female,Cape Coast,2023-09-16,Tablet,Platinum
+C0474,29.0,Male,Kumasi,2026-01-23,Tablet,Silver
+C0475,43.0,Female,Tamale,2024-07-15,Tablet,Platinum
+C0476,30.0,Female,Kumasi,2025-05-23,Desktop,Gold
+C0477,57.0,Female,Takoradi,2025-02-27,Tablet,Platinum
+C0478,35.0,Male,Kumasi,2025-03-19,Desktop,Gold
+C0479,42.0,Male,Takoradi,2024-12-16,Desktop,Silver
+C0480,50.0,Female,Takoradi,2025-01-01,Desktop,Gold
+C0481,64.0,Female,Takoradi,2026-04-23,Mobile,Platinum
+C0482,57.0,Female,Takoradi,2023-12-14,Mobile,Gold
+C0483,60.0,Male,Takoradi,2025-03-18,Tablet,Bronze
+C0484,29.0,Female,Tamale,2025-07-13,Tablet,Gold
+C0485,61.0,Female,Kumasi,2024-12-28,Mobile,Gold
+C0486,53.0,Female,Kumasi,2024-05-22,Mobile,Silver
+C0487,65.0,Male,Accra,2025-04-09,Tablet,Silver
+C0488,21.0,Male,Accra,2026-02-13,Mobile,Platinum
+C0489,22.0,Female,Tamale,2023-07-21,Mobile,Silver
+C0490,54.0,Male,Cape Coast,2026-02-26,Mobile,Platinum
+C0491,25.0,Female,Tamale,2024-06-10,Tablet,Silver
+C0492,,Female,Takoradi,2023-11-01,Desktop,Bronze
+C0493,66.0,Male,Cape Coast,2024-10-16,Mobile,Bronze
+C0494,45.0,Male,Tamale,2024-02-04,Mobile,Bronze
+C0495,48.0,Female,Tamale,2023-10-23,Mobile,Gold
+C0496,26.0,Male,Accra,2026-01-01,Desktop,Bronze
+C0497,68.0,Female,Takoradi,2026-04-17,Desktop,Platinum
+C0498,46.0,Male,Cape Coast,2025-06-13,Desktop,Gold
+C0499,31.0,Male,Accra,2023-11-18,Desktop,Silver
+C0500,57.0,Female,Takoradi,2025-08-14,Tablet,Silver
+C0501,58.0,Male,Takoradi,2025-07-07,Desktop,Silver
+C0502,39.0,Male,Cape Coast,2025-12-18,Tablet,Platinum
+C0503,28.0,Female,Cape Coast,2025-11-06,Desktop,Bronze
+C0504,40.0,Female,Accra,2026-01-15,Mobile,Silver
+C0505,18.0,Female,Takoradi,2023-12-13,Mobile,Bronze
+C0506,63.0,Female,Tamale,2025-11-14,Mobile,Platinum
+C0507,54.0,Female,Takoradi,2026-03-09,Desktop,Bronze
+C0508,38.0,Female,Takoradi,2025-02-21,,Silver
+C0509,43.0,Male,Accra,2025-08-31,Desktop,Gold
+C0510,63.0,Male,Tamale,2026-01-18,Tablet,Gold
+C0511,53.0,Male,Takoradi,2025-11-05,Desktop,Silver
+C0512,,Male,Kumasi,2024-01-04,Desktop,Silver
+C0513,18.0,Female,Cape Coast,2023-08-16,Desktop,Platinum
+C0514,68.0,Female,Cape Coast,2025-10-31,Tablet,Silver
+C0515,57.0,Male,Cape Coast,2024-08-28,Mobile,Platinum
+C0516,32.0,Female,Accra,2024-03-11,Tablet,Bronze
+C0517,38.0,Male,Cape Coast,2025-07-06,Tablet,Silver
+C0518,64.0,Male,Kumasi,2023-11-24,Desktop,Platinum
+C0519,26.0,Male,Kumasi,2024-07-15,Tablet,Platinum
+C0520,26.0,Male,Cape Coast,2024-10-19,Desktop,Bronze
+C0521,27.0,Female,Kumasi,2024-07-27,Tablet,Platinum
+C0522,69.0,Female,Cape Coast,2025-04-05,Mobile,Platinum
+C0523,43.0,Female,Accra,2026-01-28,Desktop,Gold
+C0524,58.0,Male,Kumasi,2024-12-03,Tablet,Bronze
+C0525,52.0,Male,Tamale,2023-10-10,Desktop,Bronze
+C0526,69.0,Male,Accra,2024-11-05,Desktop,Bronze
+C0527,42.0,Female,Tamale,2023-08-05,,Silver
+C0528,43.0,Female,Takoradi,2025-03-11,Desktop,Platinum
+C0529,28.0,Female,Tamale,2026-01-16,Mobile,Silver
+C0530,55.0,Female,Accra,2025-06-24,Mobile,Platinum
+C0531,19.0,Male,Kumasi,2025-11-18,Mobile,Bronze
+C0532,24.0,Female,Tamale,2024-02-12,Tablet,Platinum
+C0533,35.0,Female,Kumasi,2025-03-10,Mobile,Platinum
+C0534,44.0,Female,Kumasi,2024-04-08,Desktop,Silver
+C0535,51.0,Male,Accra,2026-02-26,Tablet,Platinum
+C0536,44.0,Male,Kumasi,2023-11-07,Mobile,Bronze
+C0537,,Male,Cape Coast,2026-03-07,Mobile,Platinum
+C0538,60.0,Male,Kumasi,2025-11-08,Tablet,Bronze
+C0539,61.0,Female,Tamale,2023-10-31,Mobile,Silver
+C0540,68.0,Male,Kumasi,2024-10-05,Tablet,Gold
+C0541,41.0,Male,Cape Coast,2024-12-22,Desktop,Gold
+C0542,42.0,Male,Takoradi,2025-08-12,Mobile,Silver
+C0543,24.0,Female,Takoradi,2024-09-22,Desktop,Bronze
+C0544,69.0,Male,Tamale,2024-10-06,,Platinum
+C0545,23.0,Male,Takoradi,2026-04-06,Tablet,Platinum
+C0546,41.0,Female,Tamale,2024-09-30,Desktop,Silver
+C0547,50.0,Female,Tamale,2023-12-02,Mobile,Platinum
+C0548,66.0,Male,Kumasi,2026-04-10,Desktop,Silver
+C0549,46.0,Female,Accra,2024-07-28,Tablet,Platinum
+C0550,60.0,Female,Cape Coast,2024-08-13,Tablet,Silver
+C0551,39.0,Female,Kumasi,2025-06-19,Desktop,Silver
+C0552,43.0,Female,Accra,2024-06-14,Desktop,Gold
+C0553,45.0,Male,Cape Coast,2026-05-07,Tablet,Silver
+C0554,,Male,Takoradi,2025-07-11,Desktop,Bronze
+C0555,38.0,Male,Kumasi,2024-08-08,Tablet,Silver
+C0556,66.0,Female,Kumasi,2024-05-14,Desktop,Gold
+C0557,24.0,Male,Kumasi,2024-10-04,Mobile,Bronze
+C0558,34.0,Female,Kumasi,2023-09-11,Tablet,Silver
+C0559,37.0,Female,Kumasi,2024-08-30,Tablet,Gold
+C0560,58.0,Female,Tamale,2024-04-28,Desktop,Gold
+C0561,66.0,Female,Takoradi,2024-06-23,Desktop,Platinum
+C0562,37.0,Female,Accra,2024-09-14,Tablet,Platinum
+C0563,39.0,Female,Kumasi,2025-10-16,Desktop,Gold
+C0564,45.0,Female,Accra,2024-08-15,Tablet,Silver
+C0565,57.0,Male,Accra,2023-12-29,Desktop,Platinum
+C0566,66.0,Female,Kumasi,2025-01-21,,Gold
+C0567,24.0,Male,Tamale,2024-02-17,Tablet,Silver
+C0568,18.0,Female,Cape Coast,2024-03-19,Tablet,Gold
+C0569,49.0,Female,Tamale,2024-08-24,Tablet,Platinum
+C0570,30.0,Female,Kumasi,2025-10-20,Tablet,Gold
+C0571,47.0,Male,Kumasi,2026-01-13,Tablet,Platinum
+C0572,40.0,Male,Cape Coast,2024-05-12,Tablet,Bronze
+C0573,68.0,Male,Accra,2025-01-22,Tablet,Bronze
+C0574,36.0,Male,Tamale,2024-12-03,Mobile,Silver
+C0575,49.0,Male,Kumasi,2024-03-15,Mobile,Silver
+C0576,47.0,Female,Takoradi,2025-06-27,Mobile,Platinum
+C0577,46.0,Female,Accra,2023-12-20,Mobile,Platinum
+C0578,66.0,Male,Accra,2024-04-03,Tablet,Gold
+C0579,62.0,Female,Accra,2024-09-07,Tablet,Platinum
+C0580,46.0,Male,Accra,2024-02-23,Mobile,Silver
+C0581,47.0,Male,Kumasi,2024-06-19,Tablet,Gold
+C0582,33.0,Female,Takoradi,2025-02-22,Desktop,Bronze
+C0583,57.0,Female,Tamale,2025-10-07,Desktop,Silver
+C0584,36.0,Male,Takoradi,2025-04-15,Tablet,Bronze
+C0585,35.0,Male,Accra,2026-03-27,Desktop,Platinum
+C0586,18.0,Female,Cape Coast,2026-03-31,Desktop,Bronze
+C0587,31.0,Male,Kumasi,2025-05-13,Mobile,Platinum
+C0588,68.0,Female,Takoradi,2025-11-16,Tablet,Bronze
+C0589,64.0,Male,Kumasi,2025-05-04,Mobile,Platinum
+C0590,67.0,Female,Accra,2025-12-04,Mobile,Gold
+C0591,19.0,Male,Kumasi,2025-07-26,Desktop,Bronze
+C0592,45.0,Male,Cape Coast,2025-09-07,Mobile,Platinum
+C0593,66.0,Male,Takoradi,2024-04-30,Mobile,Silver
+C0594,67.0,Female,Cape Coast,2023-08-04,Desktop,Platinum
+C0595,47.0,Male,Accra,2023-12-24,Tablet,Gold
+C0596,55.0,Male,Accra,2024-02-08,Desktop,Silver
+C0597,68.0,Male,Takoradi,2025-07-02,Tablet,Platinum
+C0598,,Female,Accra,2024-09-14,Tablet,Gold
+C0599,18.0,Female,Tamale,2026-05-27,Mobile,Gold
+C0600,25.0,Female,Tamale,2026-05-26,Mobile,Platinum
+C0601,46.0,Male,Cape Coast,2023-11-03,,Silver
+C0602,56.0,Male,Accra,2026-01-16,Desktop,Silver
+C0603,20.0,Female,Kumasi,2024-12-06,Tablet,Platinum
+C0604,49.0,Female,Takoradi,2023-06-16,Mobile,Bronze
+C0605,27.0,Male,Takoradi,2025-05-05,Desktop,Gold
+C0606,27.0,Female,Accra,2025-11-17,Mobile,Bronze
+C0607,36.0,Male,Tamale,2023-08-04,Desktop,Platinum
+C0608,63.0,Male,Accra,2023-12-10,Mobile,Gold
+C0609,51.0,Male,Cape Coast,2024-03-25,Tablet,Gold
+C0610,50.0,Female,Accra,2026-05-29,Desktop,Platinum
+C0611,40.0,Female,Accra,2024-03-28,Tablet,Silver
+C0612,45.0,Male,Tamale,2024-06-09,Mobile,Silver
+C0613,49.0,Female,Takoradi,2025-11-04,Desktop,Platinum
+C0614,67.0,Male,Accra,2026-04-11,Mobile,Platinum
+C0615,24.0,Female,Tamale,2026-04-30,Desktop,Platinum
+C0616,46.0,Male,Takoradi,2023-09-18,Desktop,Silver
+C0617,25.0,Female,Cape Coast,2025-07-23,Tablet,Silver
+C0618,18.0,Female,Accra,2025-01-19,Mobile,Gold
+C0619,20.0,Male,Tamale,2025-05-05,Desktop,Platinum
+C0620,41.0,Female,Tamale,2023-08-02,Desktop,Platinum
+C0621,40.0,Male,Takoradi,2024-06-27,Desktop,Silver
+C0622,25.0,Female,Takoradi,2024-11-18,,Platinum
+C0623,64.0,Female,Takoradi,2023-12-12,,Platinum
+C0624,54.0,Male,Takoradi,2026-01-09,Desktop,Gold
+C0625,20.0,Female,Takoradi,2023-12-09,Mobile,Silver
+C0626,68.0,Male,Cape Coast,2025-02-14,Mobile,Platinum
+C0627,50.0,Male,Tamale,2024-02-02,Desktop,Bronze
+C0628,45.0,Female,Tamale,2024-03-26,Mobile,Gold
+C0629,64.0,Male,Takoradi,2023-07-23,Tablet,Silver
+C0630,25.0,Female,Tamale,2024-06-06,Mobile,Platinum
+C0631,51.0,Female,Cape Coast,2023-10-07,Desktop,Platinum
+C0632,52.0,Male,Takoradi,2025-06-22,Tablet,Bronze
+C0633,,Male,Kumasi,2024-03-22,Tablet,Gold
+C0634,41.0,Male,Cape Coast,2026-02-08,Mobile,Platinum
+C0635,31.0,Female,Tamale,2026-03-31,Mobile,Bronze
+C0636,49.0,Male,Takoradi,2023-10-20,Mobile,Silver
+C0637,63.0,Female,Takoradi,2023-07-01,Desktop,Platinum
+C0638,60.0,Male,Takoradi,2025-04-22,Mobile,Platinum
+C0639,33.0,Male,Takoradi,2024-05-05,Desktop,Bronze
+C0640,21.0,Male,Kumasi,2025-04-12,Desktop,Gold
+C0641,69.0,Female,Tamale,2025-12-01,Mobile,Platinum
+C0642,54.0,Female,Tamale,2023-12-15,,Platinum
+C0643,38.0,Female,Takoradi,2025-06-27,Mobile,Gold
+C0644,31.0,Male,Accra,2025-10-05,Mobile,Gold
+C0645,48.0,Male,Kumasi,2023-06-12,Tablet,Silver
+C0646,65.0,Male,Cape Coast,2025-07-12,Mobile,Gold
+C0647,35.0,Female,Tamale,2025-09-25,Mobile,Platinum
+C0648,24.0,Male,Kumasi,2024-07-29,Tablet,Platinum
+C0649,27.0,Female,Accra,2025-04-05,Tablet,Silver
+C0650,24.0,Female,Cape Coast,2023-12-31,Desktop,Platinum
+C0651,50.0,Male,Kumasi,2025-12-10,,Gold
+C0652,40.0,Male,Cape Coast,2025-12-15,Mobile,Silver
+C0653,38.0,Female,Takoradi,2023-12-24,Mobile,Platinum
+C0654,36.0,Male,Takoradi,2025-09-04,Tablet,Platinum
+C0655,65.0,Female,Cape Coast,2024-10-25,Desktop,Platinum
+C0656,36.0,Male,Takoradi,2025-11-23,Desktop,Platinum
+C0657,53.0,Male,Takoradi,2025-01-20,Tablet,Bronze
+C0658,46.0,Male,Takoradi,2025-11-12,Mobile,Silver
+C0659,35.0,Female,Accra,2025-06-07,Mobile,Gold
+C0660,19.0,Male,Cape Coast,2026-05-20,Desktop,Platinum
+C0661,18.0,Male,Cape Coast,2023-10-23,Desktop,Platinum
+C0662,64.0,Male,Tamale,2024-08-02,Tablet,Silver
+C0663,22.0,Male,Tamale,2026-02-24,Desktop,Silver
+C0664,37.0,Male,Takoradi,2024-02-02,Desktop,Bronze
+C0665,28.0,Female,Accra,2025-05-07,Desktop,Silver
+C0666,,Male,Tamale,2023-12-26,Tablet,Platinum
+C0667,19.0,Female,Tamale,2025-01-12,Desktop,Platinum
+C0668,20.0,Female,Kumasi,2024-11-14,Mobile,Bronze
+C0669,40.0,Male,Takoradi,2023-06-21,Mobile,Gold
+C0670,29.0,Male,Cape Coast,2024-03-31,,Silver
+C0671,37.0,Female,Cape Coast,2025-07-09,Tablet,Platinum
+C0672,22.0,Male,Cape Coast,2025-10-02,Mobile,Gold
+C0673,54.0,Female,Cape Coast,2024-03-18,Mobile,Platinum
+C0674,55.0,Male,Tamale,2024-05-29,Mobile,Silver
+C0675,47.0,Female,Accra,2024-09-28,Desktop,Gold
+C0676,26.0,Female,Accra,2023-11-13,Desktop,Bronze
+C0677,51.0,Male,Kumasi,2023-07-04,,Gold
+C0678,61.0,Female,Kumasi,2026-01-05,Tablet,Silver
+C0679,52.0,Male,Kumasi,2025-10-20,Mobile,Gold
+C0680,69.0,Female,Cape Coast,2024-10-13,Tablet,Silver
+C0681,39.0,Female,Takoradi,2025-01-28,Desktop,Gold
+C0682,61.0,Male,Kumasi,2024-10-16,Desktop,Bronze
+C0683,41.0,Female,Kumasi,2023-12-11,Tablet,Silver
+C0684,34.0,Male,Kumasi,2024-09-02,Tablet,Gold
+C0685,27.0,Male,Tamale,2025-07-09,Desktop,Silver
+C0686,,Female,Tamale,2024-05-13,Desktop,Platinum
+C0687,63.0,Male,Accra,2023-12-21,Desktop,Gold
+C0688,40.0,Female,Tamale,2025-08-20,Desktop,Gold
+C0689,49.0,Male,Accra,2025-11-05,Tablet,Platinum
+C0690,34.0,Female,Accra,2026-03-28,Tablet,Platinum
+C0691,,Male,Tamale,2026-05-14,Mobile,Platinum
+C0692,68.0,Female,Takoradi,2024-03-24,Desktop,Gold
+C0693,34.0,Male,Cape Coast,2023-12-29,Desktop,Gold
+C0694,31.0,Male,Accra,2025-12-20,Mobile,Platinum
+C0695,26.0,Male,Accra,2026-04-05,Mobile,Platinum
+C0696,57.0,Female,Accra,2024-11-09,Desktop,Silver
+C0697,,Male,Takoradi,2026-02-28,Mobile,Gold
+C0698,62.0,Male,Takoradi,2024-06-08,Desktop,Bronze
+C0699,42.0,Female,Kumasi,2023-06-19,Mobile,Platinum
+C0700,56.0,Female,Kumasi,2026-02-21,Desktop,Bronze
+C0701,,Male,Accra,2026-03-25,Mobile,Platinum
+C0702,39.0,Male,Kumasi,2025-01-15,Tablet,Silver
+C0703,60.0,Female,Accra,2023-10-28,,Gold
+C0704,63.0,Male,Tamale,2024-12-25,Tablet,Silver
+C0705,21.0,Female,Accra,2024-02-11,Mobile,Platinum
+C0706,43.0,Male,Accra,2025-08-04,Mobile,Gold
+C0707,46.0,Female,Takoradi,2023-09-18,Mobile,Platinum
+C0708,,Male,Kumasi,2024-02-05,Mobile,Bronze
+C0709,51.0,Male,Tamale,2026-04-21,Desktop,Silver
+C0710,40.0,Male,Tamale,2025-10-27,,Platinum
+C0711,,Male,Accra,2024-03-09,Mobile,Silver
+C0712,28.0,Male,Cape Coast,2024-08-18,,Platinum
+C0713,23.0,Female,Tamale,2023-09-29,,Silver
+C0714,35.0,Male,Takoradi,2025-10-05,Tablet,Bronze
+C0715,38.0,Male,Cape Coast,2023-10-09,Tablet,Gold
+C0716,59.0,Male,Takoradi,2023-07-02,Mobile,Silver
+C0717,53.0,Female,Takoradi,2024-01-17,Tablet,Bronze
+C0718,58.0,Male,Tamale,2023-11-06,Desktop,Bronze
+C0719,55.0,Male,Tamale,2023-09-27,Tablet,Bronze
+C0720,51.0,Male,Takoradi,2024-11-28,Desktop,Silver
+C0721,34.0,Female,Cape Coast,2023-08-19,Desktop,Gold
+C0722,54.0,Male,Tamale,2026-01-07,Mobile,Bronze
+C0723,42.0,Male,Accra,2026-05-29,Desktop,Silver
+C0724,55.0,Male,Accra,2023-12-26,Desktop,Gold
+C0725,,Female,Tamale,2025-04-29,Tablet,Platinum
+C0726,40.0,Male,Cape Coast,2025-11-11,Tablet,Silver
+C0727,59.0,Female,Accra,2025-09-05,Desktop,Bronze
+C0728,39.0,Male,Kumasi,2024-11-18,Tablet,Gold
+C0729,38.0,Female,Cape Coast,2026-01-29,Tablet,Bronze
+C0730,44.0,Female,Tamale,2025-11-01,Tablet,Silver
+C0731,48.0,Male,Kumasi,2023-11-13,Mobile,Platinum
+C0732,23.0,Male,Tamale,2025-08-28,Tablet,Bronze
+C0733,44.0,Female,Kumasi,2023-12-26,Mobile,Bronze
+C0734,57.0,Male,Accra,2026-01-19,Mobile,Platinum
+C0735,51.0,Female,Cape Coast,2024-10-16,Tablet,Gold
+C0736,29.0,Male,Takoradi,2023-11-09,Mobile,Gold
+C0737,62.0,Male,Accra,2023-06-25,Desktop,Platinum
+C0738,24.0,Female,Cape Coast,2023-07-30,Mobile,Gold
+C0739,27.0,Male,Tamale,2026-03-20,Desktop,Gold
+C0740,,Male,Tamale,2026-01-19,Tablet,Silver
+C0741,,Female,Kumasi,2024-03-22,,Bronze
+C0742,43.0,Male,Kumasi,2024-06-30,Tablet,Bronze
+C0743,38.0,Male,Accra,2024-09-22,Mobile,Bronze
+C0744,45.0,Female,Takoradi,2025-03-31,Desktop,Silver
+C0745,63.0,Male,Accra,2024-07-08,Tablet,Platinum
+C0746,19.0,Male,Takoradi,2025-04-25,Mobile,Platinum
+C0747,60.0,Female,Takoradi,2024-01-07,Mobile,Gold
+C0748,18.0,Male,Cape Coast,2024-10-11,Tablet,Bronze
+C0749,68.0,Male,Kumasi,2026-04-13,Tablet,Bronze
+C0750,53.0,Female,Accra,2024-01-02,Desktop,Gold
+C0751,68.0,Female,Takoradi,2023-11-19,Mobile,Platinum
+C0752,43.0,Male,Takoradi,2025-09-03,Mobile,Gold
+C0753,46.0,Female,Cape Coast,2025-01-26,Mobile,Platinum
+C0754,38.0,Female,Cape Coast,2024-05-30,Desktop,Silver
+C0755,28.0,Male,Kumasi,2023-07-29,Mobile,Platinum
+C0756,57.0,Male,Kumasi,2026-04-03,Tablet,Gold
+C0757,28.0,Male,Takoradi,2024-10-28,Mobile,Platinum
+C0758,53.0,Female,Accra,2025-12-23,Mobile,Silver
+C0759,66.0,Female,Tamale,2025-09-08,Mobile,Silver
+C0760,56.0,Female,Accra,2026-01-01,Mobile,Silver
+C0761,57.0,Female,Takoradi,2024-10-13,Desktop,Bronze
+C0762,52.0,Male,Cape Coast,2023-12-19,Mobile,Platinum
+C0763,51.0,Male,Cape Coast,2026-05-19,Tablet,Bronze
+C0764,64.0,Female,Kumasi,2025-11-28,,Gold
+C0765,41.0,Female,Takoradi,2024-03-02,Desktop,Gold
+C0766,39.0,Female,Tamale,2025-02-28,Desktop,Silver
+C0767,22.0,Male,Kumasi,2024-06-14,Mobile,Bronze
+C0768,50.0,Male,Accra,2023-10-09,Mobile,Platinum
+C0769,53.0,Female,Takoradi,2025-06-05,Desktop,Bronze
+C0770,64.0,Female,Kumasi,2024-10-03,Desktop,Gold
+C0771,37.0,Female,Takoradi,2026-02-09,Mobile,Bronze
+C0772,36.0,Male,Takoradi,2025-01-24,Tablet,Bronze
+C0773,,Male,Takoradi,2025-08-04,Mobile,Bronze
+C0774,69.0,Male,Takoradi,2026-01-13,Desktop,Bronze
+C0775,60.0,Female,Takoradi,2026-04-18,Mobile,Bronze
+C0776,34.0,Female,Tamale,2024-07-15,Tablet,Silver
+C0777,62.0,Male,Tamale,2024-03-08,Mobile,Silver
+C0778,60.0,Male,Accra,2025-09-25,Mobile,Silver
+C0779,51.0,Male,Kumasi,2023-06-08,Desktop,Gold
+C0780,26.0,Male,Cape Coast,2025-12-18,Tablet,Gold
+C0781,43.0,Male,Accra,2025-07-20,Mobile,Silver
+C0782,19.0,Female,Kumasi,2024-10-18,Mobile,Gold
+C0783,26.0,Male,Accra,2024-08-28,Desktop,Bronze
+C0784,26.0,Male,Cape Coast,2025-11-14,Desktop,Platinum
+C0785,57.0,Female,Accra,2025-11-16,Desktop,Platinum
+C0786,34.0,Male,Takoradi,2025-10-14,Mobile,Silver
+C0787,18.0,Female,Takoradi,2024-01-29,Desktop,Silver
+C0788,42.0,Male,Cape Coast,2025-07-15,Tablet,Silver
+C0789,60.0,Female,Tamale,2023-07-13,Desktop,Platinum
+C0790,,Male,Accra,2025-11-22,Desktop,Platinum
+C0791,59.0,Male,Tamale,2024-06-25,Mobile,Silver
+C0792,42.0,Male,Tamale,2025-04-29,Tablet,Gold
+C0793,56.0,Female,Cape Coast,2025-01-04,Desktop,Gold
+C0794,52.0,Female,Tamale,2024-06-24,Desktop,Silver
+C0795,20.0,Male,Takoradi,2023-08-31,Tablet,Silver
+C0796,67.0,Male,Takoradi,2024-12-26,Mobile,Platinum
+C0797,54.0,Female,Cape Coast,2023-12-10,Mobile,Silver
+C0798,61.0,Male,Kumasi,2024-05-11,Tablet,Silver
+C0799,,Female,Cape Coast,2024-10-03,Tablet,Bronze
+C0800,68.0,Male,Cape Coast,2023-12-02,Desktop,Gold
+C0801,47.0,Male,Kumasi,2023-12-15,Mobile,Gold
+C0802,55.0,Female,Cape Coast,2023-08-27,Mobile,Gold
+C0803,51.0,Male,Cape Coast,2024-11-26,Mobile,Platinum
+C0804,29.0,Female,Kumasi,2025-06-20,Desktop,Bronze
+C0805,36.0,Male,Accra,2024-11-04,Mobile,Silver
+C0806,54.0,Male,Cape Coast,2023-08-16,Desktop,Bronze
+C0807,61.0,Female,Cape Coast,2025-03-16,Mobile,Silver
+C0808,66.0,Female,Kumasi,2025-07-31,Desktop,Bronze
+C0809,34.0,Male,Kumasi,2026-05-05,Tablet,Silver
+C0810,27.0,Male,Cape Coast,2024-03-07,Desktop,Bronze
+C0811,,Female,Tamale,2025-06-29,Tablet,Bronze
+C0812,64.0,Female,Takoradi,2023-06-30,Desktop,Silver
+C0813,29.0,Male,Tamale,2026-03-13,,Platinum
+C0814,33.0,Female,Kumasi,2023-08-10,Tablet,Gold
+C0815,41.0,Male,Cape Coast,2024-05-12,Mobile,Platinum
+C0816,36.0,Female,Takoradi,2024-04-10,Mobile,Silver
+C0817,25.0,Male,Cape Coast,2023-07-22,Desktop,Bronze
+C0818,48.0,Male,Cape Coast,2025-06-15,Desktop,Silver
+C0819,38.0,Male,Tamale,2026-02-14,Mobile,Gold
+C0820,34.0,Male,Kumasi,2024-04-14,Desktop,Gold
+C0821,40.0,Male,Accra,2024-11-29,Tablet,Gold
+C0822,54.0,Female,Accra,2024-01-27,Desktop,Silver
+C0823,33.0,Male,Accra,2025-07-01,Desktop,Gold
+C0824,23.0,Male,Accra,2025-06-23,Mobile,Platinum
+C0825,25.0,Female,Tamale,2024-12-01,Mobile,Platinum
+C0826,,Female,Tamale,2024-01-26,Desktop,Platinum
+C0827,35.0,Male,Tamale,2023-10-30,Tablet,Silver
+C0828,42.0,Male,Tamale,2023-10-11,Mobile,Bronze
+C0829,29.0,Female,Accra,2025-11-28,Desktop,Gold
+C0830,32.0,Male,Accra,2026-04-09,Desktop,Silver
+C0831,43.0,Female,Kumasi,2023-12-04,,Bronze
+C0832,58.0,Male,Takoradi,2025-08-01,Tablet,Platinum
+C0833,62.0,Male,Tamale,2023-08-21,Tablet,Silver
+C0834,43.0,Female,Kumasi,2023-09-03,Mobile,Bronze
+C0835,64.0,Female,Kumasi,2025-03-26,Mobile,Platinum
+C0836,49.0,Female,Takoradi,2026-05-04,,Silver
+C0837,27.0,Male,Accra,2024-07-15,Desktop,Platinum
+C0838,33.0,Male,Accra,2026-03-04,Desktop,Bronze
+C0839,24.0,Female,Accra,2023-07-28,,Platinum
+C0840,34.0,Male,Accra,2025-08-29,Mobile,Silver
+C0841,40.0,Male,Takoradi,2025-05-04,Mobile,Platinum
+C0842,43.0,Male,Takoradi,2025-05-27,Desktop,Platinum
+C0843,38.0,Female,Takoradi,2026-02-22,Mobile,Platinum
+C0844,39.0,Male,Takoradi,2025-12-05,Desktop,Gold
+C0845,24.0,Male,Tamale,2025-09-17,Mobile,Gold
+C0846,31.0,Female,Tamale,2026-01-15,Desktop,Silver
+C0847,32.0,Female,Cape Coast,2025-08-09,Mobile,Silver
+C0848,24.0,Male,Accra,2026-04-15,Tablet,Gold
+C0849,26.0,Female,Cape Coast,2023-11-07,Mobile,Bronze
+C0850,68.0,Female,Cape Coast,2023-06-21,,Platinum
+C0851,65.0,Male,Tamale,2023-10-29,Desktop,Bronze
+C0852,25.0,Female,Accra,2023-11-09,Tablet,Silver
+C0853,67.0,Male,Tamale,2024-03-09,Mobile,Silver
+C0854,40.0,Male,Kumasi,2025-02-14,,Bronze
+C0855,46.0,Female,Accra,2025-01-18,Tablet,Platinum
+C0856,35.0,Male,Kumasi,2024-06-12,Tablet,Gold
+C0857,,Female,Accra,2023-12-11,Mobile,Platinum
+C0858,47.0,Female,Cape Coast,2025-03-15,Desktop,Gold
+C0859,69.0,Female,Accra,2024-07-12,Tablet,Platinum
+C0860,56.0,Male,Tamale,2023-10-01,Mobile,Silver
+C0861,,Male,Accra,2024-03-26,Tablet,Bronze
+C0862,35.0,Female,Cape Coast,2026-05-24,Desktop,Platinum
+C0863,,Female,Tamale,2025-04-04,Tablet,Platinum
+C0864,56.0,Female,Accra,2024-10-17,Mobile,Gold
+C0865,34.0,Female,Kumasi,2026-02-25,Tablet,Platinum
+C0866,31.0,Male,Tamale,2025-07-06,Desktop,Silver
+C0867,48.0,Male,Tamale,2025-09-27,Desktop,Gold
+C0868,41.0,Male,Takoradi,2023-08-03,Desktop,Gold
+C0869,52.0,Female,Tamale,2024-05-22,Tablet,Bronze
+C0870,61.0,Male,Kumasi,2024-11-19,Desktop,Platinum
+C0871,62.0,Female,Takoradi,2024-02-02,Tablet,Platinum
+C0872,51.0,Male,Kumasi,2025-02-15,Desktop,Silver
+C0873,20.0,Female,Tamale,2024-11-01,Tablet,Gold
+C0874,54.0,Male,Cape Coast,2026-02-17,Mobile,Bronze
+C0875,60.0,Female,Cape Coast,2024-01-20,Desktop,Silver
+C0876,57.0,Male,Kumasi,2026-04-15,Mobile,Silver
+C0877,43.0,Male,Kumasi,2025-04-18,,Platinum
+C0878,40.0,Male,Takoradi,2025-04-25,Tablet,Silver
+C0879,61.0,Female,Takoradi,2023-11-13,Desktop,Platinum
+C0880,56.0,Male,Accra,2025-01-22,Mobile,Gold
+C0881,32.0,Female,Cape Coast,2025-04-28,Desktop,Silver
+C0882,66.0,Female,Cape Coast,2024-07-28,Tablet,Gold
+C0883,21.0,Female,Kumasi,2025-05-17,Desktop,Bronze
+C0884,46.0,Female,Accra,2025-12-25,Desktop,Bronze
+C0885,39.0,Male,Cape Coast,2026-05-21,Mobile,Silver
+C0886,42.0,Male,Kumasi,2024-12-14,Desktop,Platinum
+C0887,30.0,Male,Accra,2023-07-26,Desktop,Silver
+C0888,35.0,Male,Cape Coast,2025-02-11,Mobile,Silver
+C0889,50.0,Female,Cape Coast,2023-08-28,Desktop,Gold
+C0890,33.0,Female,Tamale,2024-02-09,Desktop,Platinum
+C0891,62.0,Female,Kumasi,2023-07-18,Desktop,Gold
+C0892,59.0,Female,Cape Coast,2025-05-04,Mobile,Bronze
+C0893,61.0,Female,Cape Coast,2024-05-08,Tablet,Gold
+C0894,19.0,Female,Accra,2026-05-15,Desktop,Bronze
+C0895,52.0,Female,Takoradi,2026-03-08,Tablet,Gold
+C0896,59.0,Female,Takoradi,2025-05-11,Tablet,Gold
+C0897,51.0,Male,Kumasi,2025-08-08,Tablet,Silver
+C0898,47.0,Male,Cape Coast,2024-06-30,Desktop,Gold
+C0899,30.0,Male,Accra,2026-02-28,,Platinum
+C0900,30.0,Female,Takoradi,2025-05-06,Desktop,Platinum
+C0901,35.0,Female,Accra,2024-11-11,Tablet,Silver
+C0902,49.0,Female,Kumasi,2024-02-14,Tablet,Platinum
+C0903,,Female,Cape Coast,2024-02-15,Desktop,Silver
+C0904,52.0,Male,Takoradi,2025-12-01,Mobile,Platinum
+C0905,56.0,Male,Takoradi,2026-03-29,Tablet,Silver
+C0906,63.0,Female,Accra,2024-03-03,Mobile,Gold
+C0907,69.0,Male,Takoradi,2024-12-18,Desktop,Gold
+C0908,46.0,Female,Takoradi,2024-12-04,Tablet,Gold
+C0909,66.0,Female,Accra,2025-08-29,Desktop,Bronze
+C0910,46.0,Male,Tamale,2023-07-09,Mobile,Bronze
+C0911,61.0,Female,Cape Coast,2025-11-23,Desktop,Platinum
+C0912,33.0,Male,Kumasi,2026-02-08,Mobile,Silver
+C0913,61.0,Female,Tamale,2023-08-21,Tablet,Platinum
+C0914,64.0,Male,Takoradi,2023-09-08,Tablet,Silver
+C0915,27.0,Male,Tamale,2023-09-25,Desktop,Silver
+C0916,47.0,Female,Accra,2023-07-20,Mobile,Platinum
+C0917,42.0,Female,Kumasi,2025-04-02,Mobile,Silver
+C0918,56.0,Female,Accra,2025-06-28,Mobile,Platinum
+C0919,37.0,Female,Tamale,2024-01-08,Desktop,Platinum
+C0920,22.0,Female,Accra,2024-06-24,,Silver
+C0921,,Female,Accra,2023-12-20,Desktop,Silver
+C0922,47.0,Male,Accra,2024-09-05,Tablet,Silver
+C0923,,Male,Takoradi,2025-05-17,Desktop,Silver
+C0924,20.0,Male,Tamale,2023-08-28,Tablet,Gold
+C0925,62.0,Male,Accra,2025-09-09,Mobile,Gold
+C0926,31.0,Female,Tamale,2026-02-17,Tablet,Gold
+C0927,47.0,Female,Kumasi,2026-05-28,Desktop,Platinum
+C0928,67.0,Female,Kumasi,2026-02-20,Mobile,Platinum
+C0929,21.0,Male,Kumasi,2024-01-20,Mobile,Silver
+C0930,35.0,Male,Accra,2024-08-26,Tablet,Silver
+C0931,54.0,Male,Takoradi,2025-06-05,Tablet,Bronze
+C0932,42.0,Female,Takoradi,2025-06-10,Tablet,Bronze
+C0933,65.0,Male,Accra,2025-01-13,Tablet,Bronze
+C0934,18.0,Male,Accra,2024-08-08,Desktop,Platinum
+C0935,63.0,Female,Accra,2026-06-02,Tablet,Gold
+C0936,32.0,Female,Kumasi,2023-06-20,Mobile,Bronze
+C0937,26.0,Female,Tamale,2025-01-03,Tablet,Bronze
+C0938,32.0,Female,Cape Coast,2023-10-04,Tablet,Silver
+C0939,66.0,Female,Accra,2023-11-14,Tablet,Bronze
+C0940,41.0,Female,Accra,2024-11-29,Mobile,Platinum
+C0941,21.0,Male,Cape Coast,2023-09-10,Mobile,Gold
+C0942,29.0,Male,Takoradi,2024-01-26,Tablet,Platinum
+C0943,54.0,Female,Kumasi,2024-01-25,Mobile,Platinum
+C0944,54.0,Male,Tamale,2026-04-21,Desktop,Silver
+C0945,60.0,Male,Accra,2026-05-29,Tablet,Bronze
+C0946,23.0,Male,Cape Coast,2025-09-29,Tablet,Platinum
+C0947,56.0,Male,Accra,2026-05-26,Tablet,Bronze
+C0948,63.0,Male,Takoradi,2024-07-11,Tablet,Silver
+C0949,41.0,Female,Takoradi,2023-06-11,Desktop,Platinum
+C0950,28.0,Male,Accra,2023-07-22,,Bronze
+C0951,30.0,Female,Takoradi,2025-11-08,Tablet,Gold
+C0952,51.0,Female,Accra,2025-04-03,Mobile,Bronze
+C0953,42.0,Male,Kumasi,2023-09-08,Tablet,Silver
+C0954,24.0,Female,Takoradi,2026-03-26,Desktop,Gold
+C0955,69.0,Male,Takoradi,2025-03-08,Desktop,Silver
+C0956,21.0,Male,Tamale,2025-01-02,Desktop,Platinum
+C0957,25.0,Female,Tamale,2024-03-22,Tablet,Platinum
+C0958,37.0,Female,Kumasi,2024-11-20,Mobile,Silver
+C0959,46.0,Male,Kumasi,2026-03-05,,Platinum
+C0960,68.0,Female,Cape Coast,2026-05-31,Tablet,Platinum
+C0961,62.0,Male,Cape Coast,2025-12-08,Desktop,Gold
+C0962,63.0,Male,Kumasi,2023-09-17,Desktop,Platinum
+C0963,27.0,Male,Tamale,2023-12-03,Desktop,Bronze
+C0964,60.0,Male,Takoradi,2025-04-06,Tablet,Gold
+C0965,51.0,Male,Cape Coast,2025-07-15,Tablet,Silver
+C0966,43.0,Female,Cape Coast,2025-09-10,Tablet,Bronze
+C0967,58.0,Female,Kumasi,2026-03-20,Desktop,Gold
+C0968,,Female,Kumasi,2023-12-05,Tablet,Bronze
+C0969,20.0,Male,Kumasi,2025-04-06,Tablet,Platinum
+C0970,23.0,Female,Kumasi,2026-05-09,Mobile,Platinum
+C0971,22.0,Female,Kumasi,2025-04-14,Desktop,Gold
+C0972,,Male,Cape Coast,2024-12-21,Mobile,Platinum
+C0973,64.0,Female,Kumasi,2026-04-23,Mobile,Platinum
+C0974,40.0,Female,Cape Coast,2024-03-31,Desktop,Bronze
+C0975,66.0,Female,Tamale,2024-08-28,Desktop,Bronze
+C0976,26.0,Female,Accra,2024-05-11,Mobile,Platinum
+C0977,52.0,Female,Accra,2025-08-31,Tablet,Bronze
+C0978,37.0,Male,Cape Coast,2024-09-14,Tablet,Gold
+C0979,66.0,Male,Tamale,2026-02-21,Desktop,Gold
+C0980,59.0,Male,Kumasi,2025-04-06,Desktop,Gold
+C0981,52.0,Female,Takoradi,2026-03-11,Tablet,Platinum
+C0982,,Male,Accra,2023-12-31,Tablet,Silver
+C0983,35.0,Male,Takoradi,2023-11-25,Desktop,Gold
+C0984,34.0,Female,Accra,2026-03-27,Mobile,Silver
+C0985,41.0,Female,Kumasi,2025-04-20,,Platinum
+C0986,20.0,Male,Takoradi,2023-10-18,Tablet,Silver
+C0987,49.0,Male,Accra,2025-08-25,Desktop,Silver
+C0988,52.0,Female,Kumasi,2025-11-04,Tablet,Gold
+C0989,55.0,Male,Tamale,2025-10-11,Mobile,Bronze
+C0990,30.0,Female,Tamale,2024-05-17,Tablet,Silver
+C0991,64.0,Female,Accra,2024-08-22,Tablet,Bronze
+C0992,42.0,Female,Cape Coast,2023-10-06,Desktop,Silver
+C0993,26.0,Male,Kumasi,2024-11-28,Mobile,Platinum
+C0994,21.0,Female,Cape Coast,2023-06-19,Desktop,Platinum
+C0995,31.0,Male,Takoradi,2026-05-20,Desktop,Gold
+C0996,54.0,Female,Tamale,2024-03-16,Mobile,Silver
+C0997,51.0,Female,Cape Coast,2025-10-15,Tablet,Gold
+C0998,,Female,Cape Coast,2024-01-30,Tablet,Silver
+C0999,58.0,Male,Kumasi,2024-04-22,Tablet,Gold
+C1000,20.0,Female,Kumasi,2024-06-17,Tablet,Silver
+C1001,45.0,Female,Accra,2025-04-10,Desktop,Platinum
+C1002,46.0,Female,Cape Coast,2025-02-12,Desktop,Platinum
+C1003,26.0,Male,Cape Coast,2023-10-14,Mobile,Bronze
+C1004,20.0,Female,Kumasi,2023-08-06,Mobile,Bronze
+C1005,,Male,Takoradi,2026-04-14,Mobile,Gold
+C1006,51.0,Female,Kumasi,2024-07-07,Mobile,Gold
+C1007,29.0,Male,Cape Coast,2024-07-14,Mobile,Gold
+C1008,59.0,Female,Accra,2026-03-09,,Silver
+C1009,26.0,Female,Kumasi,2025-11-08,Tablet,Gold
+C1010,32.0,Male,Tamale,2025-09-01,Desktop,Platinum
+C1011,57.0,Female,Cape Coast,2025-05-18,Mobile,Bronze
+C1012,42.0,Female,Kumasi,2025-03-18,Tablet,Platinum
+C1013,22.0,Male,Takoradi,2024-03-01,Tablet,Silver
+C1014,28.0,Male,Takoradi,2025-11-14,Desktop,Silver
+C1015,51.0,Male,Kumasi,2023-08-16,Mobile,Bronze
+C1016,41.0,Female,Accra,2023-06-18,Desktop,Gold
+C1017,32.0,Female,Kumasi,2024-11-29,Mobile,Gold
+C1018,55.0,Male,Takoradi,2026-04-05,Desktop,Silver
+C1019,25.0,Male,Kumasi,2025-07-24,Desktop,Bronze
+C1020,,Female,Tamale,2023-07-14,Tablet,Gold
+C1021,65.0,Male,Takoradi,2024-04-10,Tablet,Silver
+C1022,43.0,Male,Cape Coast,2024-07-13,Mobile,Silver
+C1023,35.0,Female,Cape Coast,2025-10-16,Tablet,Platinum
+C1024,23.0,Male,Takoradi,2024-11-15,Mobile,Silver
+C1025,54.0,Female,Takoradi,2025-02-03,Desktop,Gold
+C1026,65.0,Male,Cape Coast,2025-01-15,Tablet,Platinum
+C1027,30.0,Male,Accra,2024-03-24,Tablet,Gold
+C1028,45.0,Female,Kumasi,2024-04-28,Tablet,Silver
+C1029,22.0,Male,Takoradi,2024-02-23,Desktop,Bronze
+C1030,30.0,Female,Takoradi,2025-02-16,Tablet,Gold
+C1031,,Male,Cape Coast,2024-01-05,Desktop,Platinum
+C1032,67.0,Female,Accra,2024-06-11,Desktop,Silver
+C1033,57.0,Female,Cape Coast,2025-04-03,Mobile,Bronze
+C1034,62.0,Male,Cape Coast,2025-09-10,Tablet,Bronze
+C1035,49.0,Male,Kumasi,2025-08-04,Tablet,Silver
+C1036,46.0,Female,Accra,2025-05-22,Mobile,Platinum
+C1037,68.0,Male,Kumasi,2025-12-06,Mobile,Platinum
+C1038,20.0,Female,Accra,2024-03-03,Mobile,Bronze
+C1039,57.0,Male,Kumasi,2023-09-05,Desktop,Bronze
+C1040,51.0,Male,Takoradi,2024-10-02,Desktop,Platinum
+C1041,57.0,Female,Tamale,2024-01-27,Desktop,Gold
+C1042,44.0,Male,Tamale,2026-05-26,Tablet,Bronze
+C1043,,Male,Cape Coast,2025-08-02,Mobile,Bronze
+C1044,62.0,Male,Takoradi,2026-05-31,Tablet,Bronze
+C1045,,Female,Takoradi,2024-10-01,Tablet,Bronze
+C1046,23.0,Female,Tamale,2026-03-14,Desktop,Platinum
+C1047,41.0,Male,Tamale,2026-01-23,Mobile,Silver
+C1048,36.0,Male,Tamale,2025-03-13,Tablet,Gold
+C1049,33.0,Male,Takoradi,2026-01-20,Tablet,Gold
+C1050,57.0,Male,Cape Coast,2024-03-19,Tablet,Silver
+C1051,45.0,Male,Accra,2024-06-18,,Platinum
+C1052,50.0,Male,Takoradi,2025-08-13,Mobile,Gold
+C1053,65.0,Male,Tamale,2026-04-09,Tablet,Silver
+C1054,,Male,Kumasi,2025-02-22,Mobile,Gold
+C1055,30.0,Male,Accra,2024-04-12,Mobile,Bronze
+C1056,,Female,Cape Coast,2024-08-12,Mobile,Gold
+C1057,62.0,Male,Takoradi,2025-05-18,Mobile,Silver
+C1058,42.0,Female,Takoradi,2024-06-05,Desktop,Silver
+C1059,59.0,Male,Accra,2025-03-24,Desktop,Bronze
+C1060,53.0,Male,Takoradi,2024-08-08,Desktop,Platinum
+C1061,44.0,Female,Cape Coast,2023-09-15,Tablet,Gold
+C1062,55.0,Male,Cape Coast,2025-12-25,Tablet,Gold
+C1063,24.0,Female,Tamale,2026-02-14,Mobile,Bronze
+C1064,22.0,Female,Kumasi,2024-07-19,Mobile,Platinum
+C1065,60.0,Female,Takoradi,2025-06-27,Mobile,Gold
+C1066,62.0,Female,Tamale,2024-12-02,,Gold
+C1067,68.0,Female,Tamale,2024-03-10,Tablet,Bronze
+C1068,48.0,Male,Cape Coast,2026-05-21,Mobile,Gold
+C1069,40.0,Male,Cape Coast,2025-01-13,Mobile,Gold
+C1070,59.0,Male,Accra,2026-01-31,,Bronze
+C1071,27.0,Female,Cape Coast,2024-11-19,Mobile,Bronze
+C1072,49.0,Female,Cape Coast,2026-02-23,Tablet,Platinum
+C1073,,Male,Takoradi,2025-09-11,Desktop,Silver
+C1074,47.0,Female,Kumasi,2024-08-13,Desktop,Bronze
+C1075,56.0,Female,Takoradi,2024-06-16,Tablet,Bronze
+C1076,48.0,Male,Cape Coast,2026-04-22,Tablet,Silver
+C1077,35.0,Male,Tamale,2024-10-29,Mobile,Silver
+C1078,53.0,Male,Tamale,2024-11-07,,Bronze
+C1079,19.0,Male,Tamale,2023-10-20,Mobile,Bronze
+C1080,31.0,Female,Takoradi,2025-06-18,Mobile,Bronze
+C1081,30.0,Male,Cape Coast,2024-04-16,Desktop,Platinum
+C1082,46.0,Female,Tamale,2024-08-12,Mobile,Bronze
+C1083,29.0,Female,Accra,2024-05-20,,Gold
+C1084,56.0,Female,Cape Coast,2025-05-31,Tablet,Silver
+C1085,19.0,Female,Tamale,2023-11-10,Desktop,Bronze
+C1086,49.0,Female,Tamale,2025-09-30,Mobile,Platinum
+C1087,30.0,Female,Takoradi,2025-03-19,Desktop,Platinum
+C1088,63.0,Male,Cape Coast,2023-10-15,Mobile,Platinum
+C1089,44.0,Male,Kumasi,2026-01-20,Mobile,Gold
+C1090,66.0,Male,Kumasi,2026-02-03,,Silver
+C1091,58.0,Female,Cape Coast,2026-02-23,,Bronze
+C1092,34.0,Male,Tamale,2025-09-09,Desktop,Bronze
+C1093,,Female,Tamale,2026-03-23,Desktop,Silver
+C1094,48.0,Male,Tamale,2024-08-27,Mobile,Silver
+C1095,51.0,Male,Kumasi,2025-06-17,Tablet,Silver
+C1096,41.0,Male,Cape Coast,2024-12-24,Mobile,Silver
+C1097,62.0,Male,Kumasi,2023-06-22,Desktop,Silver
+C1098,52.0,Female,Cape Coast,2024-03-10,Tablet,Bronze
+C1099,65.0,Female,Accra,2025-04-09,Mobile,Platinum
+C1100,23.0,Female,Tamale,2025-08-28,,Silver
+C1101,36.0,Female,Cape Coast,2026-05-25,Mobile,Silver
+C1102,47.0,Female,Kumasi,2024-11-06,Tablet,Gold
+C1103,24.0,Female,Cape Coast,2024-04-08,Tablet,Bronze
+C1104,27.0,Male,Tamale,2025-02-02,Desktop,Silver
+C1105,58.0,Male,Accra,2025-04-11,Mobile,Platinum
+C1106,49.0,Male,Cape Coast,2024-03-13,Mobile,Silver
+C1107,51.0,Female,Cape Coast,2025-04-15,Tablet,Bronze
+C1108,45.0,Male,Accra,2026-04-03,Desktop,Silver
+C1109,32.0,Male,Tamale,2024-10-26,Tablet,Platinum
+C1110,47.0,Female,Accra,2025-06-14,Tablet,Platinum
+C1111,54.0,Male,Tamale,2024-08-05,Desktop,Gold
+C1112,46.0,Male,Tamale,2025-11-15,Mobile,Gold
+C1113,39.0,Female,Kumasi,2025-07-31,Mobile,Gold
+C1114,21.0,Female,Takoradi,2025-01-24,Mobile,Bronze
+C1115,37.0,Male,Cape Coast,2024-02-03,Tablet,Bronze
+C1116,49.0,Male,Tamale,2024-05-01,Tablet,Silver
+C1117,,Female,Tamale,2023-10-15,Desktop,Bronze
+C1118,67.0,Male,Tamale,2025-07-04,Tablet,Gold
+C1119,,Female,Cape Coast,2023-09-25,Desktop,Gold
+C1120,44.0,Female,Tamale,2023-11-27,Mobile,Platinum
+C1121,34.0,Female,Kumasi,2024-11-17,Desktop,Platinum
+C1122,29.0,Female,Takoradi,2025-10-08,Tablet,Gold
+C1123,39.0,Female,Kumasi,2024-11-13,Tablet,Bronze
+C1124,34.0,Male,Tamale,2024-06-04,Tablet,Silver
+C1125,27.0,Male,Kumasi,2025-07-12,Tablet,Platinum
+C1126,18.0,Female,Cape Coast,2024-03-22,Tablet,Bronze
+C1127,39.0,Male,Tamale,2024-10-19,Tablet,Bronze
+C1128,43.0,Male,Kumasi,2025-03-02,Desktop,Platinum
+C1129,35.0,Male,Accra,2026-03-08,Desktop,Silver
+C1130,67.0,Female,Accra,2025-09-19,Tablet,Bronze
+C1131,31.0,Female,Tamale,2025-10-30,Tablet,Gold
+C1132,64.0,Male,Kumasi,2025-01-03,Tablet,Platinum
+C1133,46.0,Female,Accra,2024-04-07,Mobile,Gold
+C1134,29.0,Male,Accra,2023-12-06,Tablet,Silver
+C1135,53.0,Male,Accra,2025-01-21,Desktop,Silver
+C1136,52.0,Male,Kumasi,2024-06-08,Mobile,Gold
+C1137,69.0,Female,Takoradi,2026-02-03,,Platinum
+C1138,29.0,Female,Cape Coast,2026-02-22,Mobile,Bronze
+C1139,24.0,Male,Accra,2023-11-10,Tablet,Gold
+C1140,46.0,Female,Takoradi,2023-09-23,Desktop,Silver
+C1141,28.0,Male,Tamale,2024-12-28,Desktop,Bronze
+C1142,50.0,Female,Kumasi,2023-11-06,Desktop,Bronze
+C1143,23.0,Male,Cape Coast,2026-02-06,Desktop,Gold
+C1144,64.0,Male,Cape Coast,2024-01-27,Desktop,Gold
+C1145,32.0,Female,Tamale,2025-11-28,Tablet,Platinum
+C1146,49.0,Male,Takoradi,2025-01-18,Desktop,Platinum
+C1147,68.0,Male,Tamale,2023-08-05,Mobile,Gold
+C1148,28.0,Male,Tamale,2026-06-01,Tablet,Silver
+C1149,40.0,Male,Takoradi,2025-09-04,Desktop,Gold
+C1150,43.0,Male,Takoradi,2025-08-23,Mobile,Gold
+C1151,51.0,Male,Tamale,2025-03-05,Tablet,Gold
+C1152,63.0,Male,Cape Coast,2025-12-06,,Platinum
+C1153,51.0,Female,Takoradi,2026-05-18,,Gold
+C1154,46.0,Male,Kumasi,2026-03-17,Desktop,Silver
+C1155,21.0,Male,Kumasi,2025-05-31,Desktop,Silver
+C1156,34.0,Male,Kumasi,2023-08-07,Mobile,Gold
+C1157,52.0,Male,Accra,2024-01-21,Mobile,Bronze
+C1158,30.0,Female,Cape Coast,2026-06-02,Mobile,Bronze
+C1159,58.0,Female,Takoradi,2025-10-30,Tablet,Gold
+C1160,56.0,Female,Cape Coast,2024-02-17,Desktop,Platinum
+C1161,32.0,Male,Cape Coast,2023-07-05,Desktop,Platinum
+C1162,46.0,Male,Cape Coast,2025-10-29,Mobile,Bronze
+C1163,46.0,Female,Tamale,2025-04-02,Tablet,Bronze
+C1164,28.0,Female,Tamale,2024-01-01,Tablet,Silver
+C1165,69.0,Female,Accra,2023-09-04,Tablet,Platinum
+C1166,49.0,Female,Accra,2024-06-11,Mobile,Silver
+C1167,19.0,Female,Cape Coast,2024-03-11,Mobile,Gold
+C1168,,Female,Cape Coast,2025-07-20,Desktop,Silver
+C1169,31.0,Female,Kumasi,2025-07-08,Desktop,Platinum
+C1170,37.0,Female,Takoradi,2025-01-04,Mobile,Platinum
+C1171,39.0,Female,Kumasi,2025-10-25,Desktop,Gold
+C1172,28.0,Female,Tamale,2023-06-21,Desktop,Platinum
+C1173,44.0,Male,Cape Coast,2025-08-05,Mobile,Silver
+C1174,20.0,Male,Takoradi,2025-01-28,Mobile,Platinum
+C1175,34.0,Female,Kumasi,2026-02-25,Mobile,Silver
+C1176,61.0,Female,Accra,2023-12-16,Mobile,Platinum
+C1177,45.0,Female,Kumasi,2024-09-19,Tablet,Gold
+C1178,46.0,Female,Takoradi,2023-12-10,Desktop,Bronze
+C1179,38.0,Female,Accra,2024-08-05,Tablet,Silver
+C1180,64.0,Male,Kumasi,2025-10-23,Desktop,Platinum
+C1181,33.0,Male,Tamale,2026-03-05,Tablet,Gold
+C1182,,Female,Takoradi,2026-01-03,Desktop,Gold
+C1183,37.0,Female,Accra,2023-08-21,Desktop,Bronze
+C1184,23.0,Female,Cape Coast,2024-12-21,Mobile,Silver
+C1185,36.0,Female,Takoradi,2025-11-30,Desktop,Platinum
+C1186,22.0,Female,Accra,2025-01-20,Desktop,Gold
+C1187,20.0,Female,Kumasi,2025-01-10,Mobile,Gold
+C1188,18.0,Female,Cape Coast,2024-06-30,Tablet,Platinum
+C1189,55.0,Male,Accra,2023-10-26,Mobile,Gold
+C1190,32.0,Male,Takoradi,2025-06-19,Desktop,Gold
+C1191,,Female,Cape Coast,2024-02-03,Tablet,Platinum
+C1192,52.0,Female,Tamale,2024-02-22,Desktop,Platinum
+C1193,66.0,Female,Kumasi,2025-09-10,Mobile,Bronze
+C1194,42.0,Male,Kumasi,2024-10-23,Tablet,Gold
+C1195,41.0,Male,Kumasi,2024-10-12,Mobile,Platinum
+C1196,29.0,Male,Accra,2024-04-15,Mobile,Platinum
+C1197,35.0,Male,Accra,2024-01-01,Desktop,Bronze
+C1198,32.0,Male,Takoradi,2025-06-04,Tablet,Silver
+C1199,61.0,Male,Tamale,2026-05-20,Desktop,Silver
+C1200,33.0,Male,Takoradi,2023-06-19,Desktop,Silver
+C1201,44.0,Male,Cape Coast,2024-05-13,Mobile,Bronze
+C1202,,Male,Takoradi,2024-02-27,Desktop,Platinum
+C1203,63.0,Female,Cape Coast,2025-10-10,Desktop,Platinum
+C1204,42.0,Male,Cape Coast,2024-10-29,Mobile,Platinum
+C1205,34.0,Female,Cape Coast,2023-10-31,Tablet,Gold
+C1206,46.0,Female,Tamale,2023-10-09,Tablet,Silver
+C1207,25.0,Male,Tamale,2024-06-17,Desktop,Gold
+C1208,32.0,Female,Takoradi,2023-10-27,Mobile,Gold
+C1209,44.0,Male,Accra,2025-05-12,Tablet,Silver
+C1210,63.0,Female,Takoradi,2025-12-10,Desktop,Bronze
+C1211,67.0,Female,Tamale,2023-11-16,Desktop,Bronze
+C1212,69.0,Female,Takoradi,2023-09-21,Tablet,Silver
+C1213,,Male,Cape Coast,2023-10-31,Desktop,Silver
+C1214,20.0,Female,Cape Coast,2026-01-25,Desktop,Platinum
+C1215,46.0,Male,Kumasi,2025-05-26,Tablet,Platinum
+C1216,61.0,Female,Kumasi,2023-10-12,Desktop,Bronze
+C1217,41.0,Female,Kumasi,2024-08-16,Tablet,Gold
+C1218,20.0,Female,Cape Coast,2025-06-13,Desktop,Platinum
+C1219,37.0,Male,Accra,2024-02-10,Mobile,Silver
+C1220,63.0,Female,Accra,2024-03-27,Tablet,Platinum
+C1221,32.0,Female,Takoradi,2025-01-30,Tablet,Platinum
+C1222,42.0,Male,Takoradi,2025-04-25,Mobile,Silver
+C1223,47.0,Male,Cape Coast,2024-10-30,Mobile,Silver
+C1224,31.0,Male,Takoradi,2026-05-27,Desktop,Silver
+C1225,24.0,Female,Accra,2025-06-03,Mobile,Bronze
+C1226,34.0,Male,Accra,2025-04-25,Desktop,Silver
+C1227,61.0,Female,Tamale,2024-01-13,Desktop,Platinum
+C1228,37.0,Female,Tamale,2025-04-22,Tablet,Bronze
+C1229,53.0,Female,Accra,2025-06-19,Mobile,Bronze
+C1230,26.0,Female,Tamale,2025-04-02,,Platinum
+C1231,55.0,Male,Kumasi,2024-05-08,,Platinum
+C1232,65.0,Male,Accra,2026-02-07,Tablet,Silver
+C1233,39.0,Female,Tamale,2024-02-01,Mobile,Bronze
+C1234,19.0,Male,Tamale,2025-02-28,Tablet,Bronze
+C1235,41.0,Male,Tamale,2024-11-21,,Gold
+C1236,25.0,Female,Kumasi,2023-11-19,Tablet,Bronze
+C1237,28.0,Male,Takoradi,2024-12-09,Desktop,Gold
+C1238,30.0,Male,Takoradi,2024-10-02,Mobile,Silver
+C1239,34.0,Male,Kumasi,2025-03-18,Tablet,Platinum
+C1240,25.0,Female,Accra,2025-11-02,Mobile,Gold
+C1241,38.0,Male,Tamale,2024-01-27,Mobile,Bronze
+C1242,35.0,Male,Cape Coast,2024-07-24,Tablet,Platinum
+C1243,47.0,Male,Takoradi,2024-12-07,Mobile,Silver
+C1244,35.0,Male,Tamale,2025-12-26,,Gold
+C1245,63.0,Male,Accra,2024-04-17,Desktop,Silver
+C1246,64.0,Male,Kumasi,2026-02-17,Desktop,Silver
+C1247,48.0,Female,Cape Coast,2026-06-02,Tablet,Gold
+C1248,55.0,Female,Kumasi,2023-06-30,Mobile,Platinum
+C1249,49.0,Female,Kumasi,2023-07-30,Desktop,Bronze
+C1250,28.0,Female,Tamale,2024-12-09,Tablet,Gold
+C1251,62.0,Female,Kumasi,2024-09-08,Tablet,Silver
+C1252,42.0,Female,Takoradi,2024-01-12,,Platinum
+C1253,50.0,Female,Cape Coast,2023-08-02,Tablet,Silver
+C1254,55.0,Male,Cape Coast,2024-09-18,Mobile,Platinum
+C1255,58.0,Female,Takoradi,2025-06-28,Tablet,Gold
+C1256,,Female,Accra,2024-03-26,Tablet,Platinum
+C1257,28.0,Male,Accra,2024-06-11,Tablet,Gold
+C1258,39.0,Male,Takoradi,2023-08-07,Tablet,Bronze
+C1259,68.0,Female,Kumasi,2026-03-19,Tablet,Platinum
+C1260,41.0,Male,Cape Coast,2024-01-06,Desktop,Gold
+C1261,58.0,Female,Takoradi,2024-08-31,Mobile,Bronze
+C1262,34.0,Male,Accra,2024-05-25,Mobile,Silver
+C1263,29.0,Male,Kumasi,2025-01-08,Mobile,Platinum
+C1264,63.0,Male,Accra,2026-01-26,,Platinum
+C1265,49.0,Female,Cape Coast,2023-09-23,Tablet,Gold
+C1266,32.0,Male,Takoradi,2024-04-25,Mobile,Bronze
+C1267,33.0,Male,Kumasi,2025-06-19,Tablet,Platinum
+C1268,39.0,Male,Tamale,2025-10-06,Tablet,Bronze
+C1269,45.0,Female,Cape Coast,2023-08-03,Tablet,Platinum
+C1270,37.0,Female,Accra,2025-06-25,Tablet,Gold
+C1271,50.0,Male,Accra,2024-07-10,Desktop,Bronze
+C1272,27.0,Male,Cape Coast,2023-09-28,Mobile,Bronze
+C1273,57.0,Male,Cape Coast,2025-01-03,Desktop,Silver
+C1274,49.0,Male,Cape Coast,2025-05-25,Tablet,Silver
+C1275,67.0,Male,Cape Coast,2024-02-25,Tablet,Platinum
+C1276,50.0,Male,Cape Coast,2025-04-12,Desktop,Platinum
+C1277,19.0,Female,Accra,2025-09-18,Mobile,Silver
+C1278,50.0,Female,Cape Coast,2023-11-12,Desktop,Silver
+C1279,50.0,Female,Takoradi,2026-03-05,Desktop,Gold
+C1280,58.0,Female,Tamale,2024-06-10,Tablet,Platinum
+C1281,30.0,Female,Cape Coast,2025-03-12,Mobile,Silver
+C1282,47.0,Female,Cape Coast,2023-12-22,Tablet,Gold
+C1283,50.0,Female,Tamale,2024-08-10,,Platinum
+C1284,30.0,Male,Accra,2024-12-01,Desktop,Bronze
+C1285,69.0,Male,Takoradi,2023-08-13,Mobile,Gold
+C1286,43.0,Male,Kumasi,2025-08-02,Desktop,Bronze
+C1287,39.0,Female,Cape Coast,2025-07-06,Tablet,Silver
+C1288,56.0,Male,Accra,2024-05-24,Desktop,Gold
+C1289,19.0,Male,Kumasi,2026-05-31,Desktop,Gold
+C1290,55.0,Male,Kumasi,2024-08-18,Desktop,Gold
+C1291,56.0,Male,Cape Coast,2025-05-27,Desktop,Silver
+C1292,43.0,Male,Takoradi,2026-04-07,Desktop,Silver
+C1293,63.0,Female,Cape Coast,2025-08-22,Mobile,Gold
+C1294,67.0,Male,Cape Coast,2024-05-17,Desktop,Bronze
+C1295,32.0,Male,Takoradi,2024-03-02,Desktop,Platinum
+C1296,51.0,Female,Accra,2024-07-11,Mobile,Bronze
+C1297,59.0,Female,Accra,2025-04-16,Desktop,Bronze
+C1298,61.0,Female,Cape Coast,2024-04-05,Tablet,Silver
+C1299,66.0,Female,Cape Coast,2025-05-29,Tablet,Silver
+C1300,57.0,Male,Accra,2024-07-28,Tablet,Platinum
+C1301,28.0,Female,Cape Coast,2024-11-08,Tablet,Bronze
+C1302,20.0,Male,Tamale,2023-09-27,Desktop,Platinum
+C1303,23.0,Male,Kumasi,2023-12-02,Desktop,Bronze
+C1304,26.0,Female,Cape Coast,2023-07-17,Tablet,Bronze
+C1305,23.0,Female,Takoradi,2023-06-28,Mobile,Platinum
+C1306,26.0,Female,Kumasi,2024-09-03,Mobile,Platinum
+C1307,,Male,Tamale,2025-04-25,Desktop,Silver
+C1308,48.0,Male,Kumasi,2024-09-05,Mobile,Gold
+C1309,49.0,Female,Takoradi,2025-02-28,Tablet,Bronze
+C1310,58.0,Male,Tamale,2025-12-29,Desktop,Gold
+C1311,,Female,Kumasi,2025-08-31,Desktop,Gold
+C1312,29.0,Male,Takoradi,2024-12-17,Mobile,Gold
+C1313,25.0,Female,Cape Coast,2023-12-18,Mobile,Platinum
+C1314,25.0,Male,Kumasi,2024-05-30,Mobile,Gold
+C1315,67.0,Male,Accra,2025-01-07,Mobile,Bronze
+C1316,45.0,Male,Cape Coast,2025-05-24,Mobile,Gold
+C1317,37.0,Male,Takoradi,2024-10-07,Tablet,Bronze
+C1318,,Female,Tamale,2026-03-06,Desktop,Bronze
+C1319,24.0,Female,Kumasi,2025-12-20,Tablet,Silver
+C1320,28.0,Male,Cape Coast,2024-02-21,Tablet,Gold
+C1321,37.0,Female,Cape Coast,2024-10-13,Tablet,Silver
+C1322,33.0,Male,Tamale,2025-08-20,Tablet,Bronze
+C1323,21.0,Female,Kumasi,2025-06-12,Mobile,Gold
+C1324,23.0,Male,Cape Coast,2025-04-15,Desktop,Bronze
+C1325,39.0,Female,Accra,2025-09-24,Mobile,Platinum
+C1326,43.0,Female,Takoradi,2024-01-06,Mobile,Bronze
+C1327,20.0,Female,Tamale,2023-11-22,Mobile,Platinum
+C1328,58.0,Male,Takoradi,2025-11-11,Desktop,Bronze
+C1329,59.0,Male,Kumasi,2024-10-21,Tablet,Platinum
+C1330,31.0,Male,Accra,2024-08-24,Mobile,Gold
+C1331,28.0,Female,Tamale,2024-01-01,Desktop,Silver
+C1332,35.0,Male,Takoradi,2025-02-10,Tablet,Gold
+C1333,29.0,Female,Takoradi,2023-10-18,Mobile,Gold
+C1334,40.0,Male,Takoradi,2025-04-18,Desktop,Bronze
+C1335,,Female,Kumasi,2025-11-24,Mobile,Gold
+C1336,30.0,Female,Kumasi,2023-12-27,Mobile,Platinum
+C1337,42.0,Male,Tamale,2025-03-05,Mobile,Silver
+C1338,62.0,Female,Takoradi,2024-07-04,Tablet,Gold
+C1339,68.0,Female,Cape Coast,2026-04-04,Mobile,Silver
+C1340,36.0,Male,Cape Coast,2025-11-11,Tablet,Silver
+C1341,63.0,Male,Takoradi,2025-12-14,Tablet,Silver
+C1342,53.0,Female,Kumasi,2026-04-08,Tablet,Silver
+C1343,62.0,Female,Accra,2026-03-19,Tablet,Bronze
+C1344,25.0,Male,Takoradi,2025-03-16,Mobile,Bronze
+C1345,46.0,Female,Tamale,2024-08-13,Desktop,Gold
+C1346,49.0,Female,Takoradi,2025-01-12,Mobile,Silver
+C1347,68.0,Male,Kumasi,2023-09-26,Mobile,Bronze
+C1348,61.0,Female,Cape Coast,2024-05-19,Tablet,Silver
+C1349,35.0,Male,Kumasi,2025-06-06,Tablet,Bronze
+C1350,23.0,Female,Accra,2025-12-19,Tablet,Platinum
+C1351,35.0,Male,Cape Coast,2026-02-27,Tablet,Platinum
+C1352,36.0,Female,Kumasi,2024-04-08,Desktop,Platinum
+C1353,39.0,Female,Kumasi,2023-10-21,,Silver
+C1354,54.0,Male,Accra,2024-06-17,Desktop,Bronze
+C1355,49.0,Female,Tamale,2025-04-13,Mobile,Silver
+C1356,58.0,Male,Accra,2023-07-21,Mobile,Platinum
+C1357,20.0,Female,Takoradi,2025-12-26,Desktop,Silver
+C1358,45.0,Female,Tamale,2024-05-06,Mobile,Platinum
+C1359,27.0,Female,Tamale,2024-01-08,Tablet,Bronze
+C1360,68.0,Male,Tamale,2024-12-28,Desktop,Bronze
+C1361,52.0,Male,Cape Coast,2024-12-28,Tablet,Platinum
+C1362,46.0,Male,Cape Coast,2023-08-10,Desktop,Bronze
+C1363,32.0,Male,Takoradi,2025-09-10,Desktop,Platinum
+C1364,50.0,Female,Takoradi,2024-03-04,Desktop,Silver
+C1365,24.0,Female,Takoradi,2024-01-06,Tablet,Bronze
+C1366,,Male,Tamale,2024-06-28,Tablet,Platinum
+C1367,66.0,Male,Cape Coast,2026-05-27,Mobile,Silver
+C1368,47.0,Male,Tamale,2024-06-12,Desktop,Gold
+C1369,38.0,Female,Accra,2024-10-13,Mobile,Platinum
+C1370,48.0,Male,Tamale,2026-01-05,Mobile,Gold
+C1371,41.0,Female,Kumasi,2024-04-04,Tablet,Bronze
+C1372,37.0,Male,Accra,2023-10-29,Tablet,Platinum
+C1373,,Female,Accra,2024-04-17,Tablet,Platinum
+C1374,21.0,Male,Tamale,2026-05-05,Tablet,Platinum
+C1375,45.0,Male,Kumasi,2024-07-29,Desktop,Silver
+C1376,61.0,Male,Kumasi,2024-02-14,Mobile,Bronze
+C1377,,Female,Takoradi,2023-11-17,Desktop,Platinum
+C1378,41.0,Female,Kumasi,2024-09-30,Mobile,Silver
+C1379,67.0,Male,Accra,2026-04-03,Tablet,Gold
+C1380,66.0,Male,Tamale,2024-02-11,Desktop,Platinum
+C1381,68.0,Male,Cape Coast,2025-05-27,Desktop,Silver
+C1382,49.0,Male,Cape Coast,2026-02-22,Tablet,Platinum
+C1383,58.0,Female,Tamale,2025-03-28,Desktop,Bronze
+C1384,53.0,Male,Kumasi,2026-01-26,Tablet,Gold
+C1385,51.0,Male,Accra,2025-10-13,Mobile,Silver
+C1386,,Male,Takoradi,2023-11-03,Mobile,Silver
+C1387,19.0,Male,Cape Coast,2025-09-11,Tablet,Gold
+C1388,32.0,Female,Accra,2025-11-26,Mobile,Bronze
+C1389,51.0,Female,Kumasi,2024-01-26,Mobile,Gold
+C1390,53.0,Male,Tamale,2024-11-05,Tablet,Gold
+C1391,23.0,Male,Accra,2024-02-23,Desktop,Gold
+C1392,56.0,Female,Tamale,2025-04-05,,Platinum
+C1393,59.0,Male,Takoradi,2024-08-15,Desktop,Silver
+C1394,68.0,Male,Takoradi,2026-01-12,Desktop,Platinum
+C1395,68.0,Male,Kumasi,2026-05-07,Tablet,Bronze
+C1396,29.0,Male,Cape Coast,2025-04-10,Tablet,Bronze
+C1397,20.0,Female,Cape Coast,2024-03-24,Tablet,Gold
+C1398,62.0,Female,Cape Coast,2026-01-03,Desktop,Gold
+C1399,35.0,Female,Kumasi,2025-05-09,Tablet,Platinum
+C1400,57.0,Female,Tamale,2025-05-04,Mobile,Silver
+C1401,,Female,Kumasi,2025-05-08,Mobile,Bronze
+C1402,32.0,Male,Tamale,2023-07-30,Tablet,Bronze
+C1403,50.0,Male,Cape Coast,2026-06-04,Desktop,Platinum
+C1404,52.0,Male,Takoradi,2023-10-13,,Silver
+C1405,43.0,Male,Kumasi,2024-04-20,Tablet,Gold
+C1406,25.0,Female,Accra,2023-12-24,Desktop,Gold
+C1407,53.0,Female,Accra,2023-06-13,Mobile,Gold
+C1408,65.0,Female,Tamale,2025-01-01,Tablet,Bronze
+C1409,47.0,Male,Kumasi,2026-01-20,Desktop,Gold
+C1410,40.0,Female,Tamale,2026-03-15,Mobile,Silver
+C1411,59.0,Female,Kumasi,2026-01-04,Tablet,Platinum
+C1412,61.0,Female,Tamale,2024-04-30,Desktop,Bronze
+C1413,31.0,Female,Cape Coast,2025-04-07,Tablet,Gold
+C1414,31.0,Male,Kumasi,2023-08-25,Tablet,Gold
+C1415,19.0,Female,Accra,2024-05-20,Mobile,Gold
+C1416,,Male,Takoradi,2026-01-28,Desktop,Silver
+C1417,22.0,Female,Kumasi,2024-02-25,Tablet,Bronze
+C1418,55.0,Female,Takoradi,2023-08-28,Tablet,Bronze
+C1419,62.0,Female,Tamale,2025-07-20,,Platinum
+C1420,58.0,Male,Takoradi,2024-04-29,Desktop,Gold
+C1421,64.0,Male,Cape Coast,2024-02-25,Desktop,Silver
+C1422,31.0,Male,Takoradi,2024-11-26,Mobile,Silver
+C1423,56.0,Male,Tamale,2024-05-17,Tablet,Bronze
+C1424,42.0,Female,Cape Coast,2024-03-25,Mobile,Silver
+C1425,37.0,Female,Tamale,2024-05-17,Tablet,Gold
+C1426,19.0,Female,Kumasi,2025-01-22,Mobile,Silver
+C1427,56.0,Male,Accra,2023-11-29,Desktop,Platinum
+C1428,23.0,Male,Accra,2026-02-10,Desktop,Bronze
+C1429,34.0,Male,Takoradi,2025-10-12,Desktop,Bronze
+C1430,42.0,Male,Cape Coast,2024-01-12,Tablet,Gold
+C1431,45.0,Male,Cape Coast,2025-05-03,Desktop,Silver
+C1432,19.0,Female,Kumasi,2025-07-20,Mobile,Gold
+C1433,52.0,Female,Cape Coast,2024-07-21,Desktop,Platinum
+C1434,54.0,Male,Takoradi,2024-10-04,Mobile,Silver
+C1435,22.0,Female,Accra,2025-12-15,Mobile,Bronze
+C1436,18.0,Male,Cape Coast,2023-10-21,Desktop,Gold
+C1437,57.0,Female,Kumasi,2026-01-08,Tablet,Gold
+C1438,,Male,Kumasi,2025-05-14,Mobile,Gold
+C1439,53.0,Female,Cape Coast,2025-09-12,Desktop,Bronze
+C1440,62.0,Male,Accra,2025-06-15,Desktop,Bronze
+C1441,40.0,Male,Tamale,2025-01-24,Mobile,Bronze
+C1442,64.0,Female,Tamale,2025-07-24,Mobile,Platinum
+C1443,48.0,Female,Takoradi,2024-02-21,Desktop,Silver
+C1444,28.0,Male,Tamale,2024-12-01,Tablet,Silver
+C1445,27.0,Male,Tamale,2026-04-21,Mobile,Platinum
+C1446,20.0,Female,Tamale,2024-10-07,Desktop,Silver
+C1447,31.0,Male,Kumasi,2025-11-09,Tablet,Gold
+C1448,33.0,Female,Tamale,2024-03-22,Mobile,Gold
+C1449,27.0,Female,Tamale,2026-02-04,Desktop,Bronze
+C1450,46.0,Male,Tamale,2025-08-15,Mobile,Gold
+C1451,27.0,Female,Tamale,2026-01-25,Mobile,Gold
+C1452,29.0,Female,Cape Coast,2025-01-18,Tablet,Silver
+C1453,47.0,Male,Tamale,2023-07-02,Tablet,Bronze
+C1454,58.0,Female,Cape Coast,2025-11-09,Tablet,Bronze
+C1455,18.0,Female,Cape Coast,2024-03-15,Desktop,Platinum
+C1456,22.0,Female,Kumasi,2025-05-25,Tablet,Silver
+C1457,37.0,Male,Tamale,2025-06-06,Desktop,Bronze
+C1458,25.0,Female,Kumasi,2026-05-09,Tablet,Platinum
+C1459,60.0,Female,Cape Coast,2024-12-14,Desktop,Silver
+C1460,29.0,Male,Accra,2026-05-14,Tablet,Platinum
+C1461,18.0,Male,Cape Coast,2023-08-10,Tablet,Platinum
+C1462,,Female,Cape Coast,2025-09-29,Mobile,Platinum
+C1463,45.0,Male,Takoradi,2023-11-18,Desktop,Bronze
+C1464,60.0,Male,Cape Coast,2024-04-27,Desktop,Gold
+C1465,54.0,Female,Accra,2026-05-29,Mobile,Silver
+C1466,64.0,Male,Cape Coast,2025-08-08,Tablet,Bronze
+C1467,54.0,Male,Kumasi,2023-07-09,Desktop,Gold
+C1468,29.0,Female,Cape Coast,2025-07-08,Tablet,Platinum
+C1469,54.0,Male,Kumasi,2026-04-09,Tablet,Gold
+C1470,66.0,Female,Cape Coast,2026-06-04,Tablet,Gold
+C1471,66.0,Female,Takoradi,2025-11-25,Mobile,Bronze
+C1472,,Female,Kumasi,2025-07-17,Desktop,Bronze
+C1473,45.0,Female,Cape Coast,2026-01-03,Mobile,Bronze
+C1474,64.0,Female,Accra,2025-10-19,,Bronze
+C1475,32.0,Male,Tamale,2024-02-13,Tablet,Platinum
+C1476,23.0,Female,Tamale,2026-01-11,Desktop,Platinum
+C1477,61.0,Female,Cape Coast,2026-04-30,Mobile,Silver
+C1478,37.0,Female,Kumasi,2024-09-04,Mobile,Platinum
+C1479,67.0,Female,Tamale,2025-03-30,Mobile,Gold
+C1480,31.0,Male,Kumasi,2025-02-15,Mobile,Bronze
+C1481,19.0,Male,Kumasi,2025-06-15,,Platinum
+C1482,26.0,Female,Kumasi,2024-12-09,Mobile,Silver
+C1483,54.0,Female,Tamale,2025-04-02,Tablet,Platinum
+C1484,37.0,Male,Tamale,2024-03-21,Tablet,Platinum
+C1485,43.0,Female,Tamale,2026-01-12,Desktop,Silver
+C1486,46.0,Male,Tamale,2024-12-27,Tablet,Bronze
+C1487,18.0,Female,Kumasi,2026-02-27,Tablet,Gold
+C1488,52.0,Female,Cape Coast,2023-12-06,Tablet,Gold
+C1489,23.0,Male,Accra,2025-06-23,Tablet,Platinum
+C1490,54.0,Female,Accra,2026-04-30,,Platinum
+C1491,22.0,Male,Kumasi,2024-06-22,Tablet,Gold
+C1492,50.0,Female,Cape Coast,2026-04-21,Mobile,Bronze
+C1493,66.0,Male,Tamale,2024-06-02,Tablet,Bronze
+C1494,68.0,Female,Cape Coast,2024-11-21,Mobile,Gold
+C1495,31.0,Male,Tamale,2023-07-07,Desktop,Platinum
+C1496,29.0,Female,Tamale,2024-06-16,Desktop,Gold
+C1497,59.0,Female,Kumasi,2024-10-31,Mobile,Gold
+C1498,37.0,Female,Accra,2024-12-17,Tablet,Platinum
+C1499,67.0,Male,Cape Coast,2026-04-15,Mobile,Gold
+C1500,41.0,Male,Takoradi,2025-04-30,Desktop,Bronze
+C1501,60.0,Male,Cape Coast,2024-05-31,Mobile,Gold
+C1502,51.0,Female,Kumasi,2026-04-24,Tablet,Gold
+C1503,42.0,Female,Takoradi,2024-04-23,Mobile,Bronze
+C1504,67.0,Male,Cape Coast,2026-01-12,Tablet,Silver
+C1505,46.0,Female,Takoradi,2025-04-15,Mobile,Gold
+C1506,56.0,Male,Tamale,2025-03-16,Mobile,Bronze
+C1507,48.0,Female,Accra,2024-10-12,Mobile,Silver
+C1508,64.0,Female,Tamale,2023-12-25,Desktop,Silver
+C1509,60.0,Female,Kumasi,2024-05-15,Mobile,Gold
+C1510,67.0,Male,Takoradi,2024-12-04,Mobile,Bronze
+C1511,,Male,Tamale,2024-05-12,Desktop,Platinum
+C1512,61.0,Female,Tamale,2024-02-14,Tablet,Silver
+C1513,55.0,Female,Tamale,2023-12-02,Desktop,Gold
+C1514,37.0,Male,Cape Coast,2025-06-12,Desktop,Bronze
+C1515,40.0,Female,Tamale,2026-03-29,Desktop,Gold
+C1516,62.0,Male,Accra,2023-11-21,Tablet,Gold
+C1517,69.0,Female,Cape Coast,2024-03-08,Tablet,Gold
+C1518,33.0,Female,Takoradi,2025-06-14,Desktop,Bronze
+C1519,67.0,Female,Cape Coast,2023-10-24,Desktop,Platinum
+C1520,59.0,Male,Cape Coast,2025-04-10,Mobile,Gold
+C1521,25.0,Male,Takoradi,2024-06-02,Tablet,Bronze
+C1522,67.0,Male,Accra,2025-09-26,Mobile,Platinum
+C1523,,Male,Cape Coast,2025-05-21,Mobile,Platinum
+C1524,18.0,Female,Kumasi,2023-11-24,Tablet,Gold
+C1525,25.0,Female,Kumasi,2024-05-17,Mobile,Bronze
+C1526,46.0,Male,Accra,2024-06-20,Tablet,Silver
+C1527,,Male,Accra,2026-02-26,Mobile,Silver
+C1528,55.0,Female,Cape Coast,2024-03-14,Mobile,Bronze
+C1529,22.0,Male,Takoradi,2026-01-15,Desktop,Platinum
+C1530,64.0,Male,Tamale,2025-05-19,Desktop,Platinum
+C1531,39.0,Female,Takoradi,2023-11-19,Mobile,Bronze
+C1532,64.0,Female,Accra,2024-05-20,Desktop,Platinum
+C1533,51.0,Female,Accra,2023-09-08,Desktop,Gold
+C1534,18.0,Male,Tamale,2023-11-30,Mobile,Platinum
+C1535,43.0,Male,Cape Coast,2023-12-14,Desktop,Silver
+C1536,60.0,Female,Accra,2023-11-28,Mobile,Platinum
+C1537,27.0,Male,Cape Coast,2025-05-08,Tablet,Bronze
+C1538,47.0,Female,Takoradi,2025-03-28,Mobile,Bronze
+C1539,67.0,Male,Accra,2024-04-30,Tablet,Gold
+C1540,35.0,Female,Accra,2024-08-13,Desktop,Silver
+C1541,34.0,Male,Accra,2024-04-26,Tablet,Platinum
+C1542,43.0,Female,Kumasi,2023-09-21,Tablet,Gold
+C1543,25.0,Female,Cape Coast,2025-05-13,Mobile,Platinum
+C1544,64.0,Female,Tamale,2025-12-11,Desktop,Bronze
+C1545,57.0,Male,Accra,2026-02-10,,Platinum
+C1546,66.0,Male,Cape Coast,2025-04-07,Tablet,Gold
+C1547,29.0,Female,Takoradi,2024-11-02,Desktop,Bronze
+C1548,44.0,Male,Takoradi,2025-07-15,Tablet,Gold
+C1549,25.0,Male,Tamale,2023-12-08,Desktop,Silver
+C1550,42.0,Male,Cape Coast,2024-05-28,Mobile,Platinum
+C1551,63.0,Male,Takoradi,2023-07-12,Tablet,Platinum
+C1552,21.0,Male,Takoradi,2025-09-22,Desktop,Bronze
+C1553,50.0,Female,Kumasi,2023-09-30,Mobile,Bronze
+C1554,18.0,Male,Accra,2023-06-30,Tablet,Silver
+C1555,36.0,Female,Tamale,2025-07-01,Mobile,Gold
+C1556,48.0,Female,Cape Coast,2023-09-16,Desktop,Bronze
+C1557,33.0,Male,Takoradi,2025-09-22,Mobile,Gold
+C1558,31.0,Male,Tamale,2025-02-08,Mobile,Silver
+C1559,65.0,Female,Cape Coast,2024-09-09,Mobile,Silver
+C1560,22.0,Male,Accra,2024-06-08,Tablet,Silver
+C1561,58.0,Female,Accra,2025-10-02,Desktop,Bronze
+C1562,43.0,Male,Kumasi,2025-08-07,Mobile,Silver
+C1563,45.0,Male,Takoradi,2023-12-02,Mobile,Platinum
+C1564,19.0,Male,Cape Coast,2024-08-07,Mobile,Bronze
+C1565,67.0,Male,Tamale,2024-05-29,Tablet,Silver
+C1566,23.0,Male,Kumasi,2023-08-17,Desktop,Gold
+C1567,26.0,Female,Takoradi,2025-12-21,Mobile,Silver
+C1568,50.0,Female,Kumasi,2024-05-19,Mobile,Silver
+C1569,58.0,Female,Accra,2023-06-10,Mobile,Gold
+C1570,42.0,Male,Tamale,2025-01-20,Mobile,Gold
+C1571,65.0,Male,Tamale,2025-11-20,Mobile,Bronze
+C1572,,Male,Accra,2025-07-07,Tablet,Platinum
+C1573,26.0,Male,Accra,2024-01-11,Desktop,Bronze
+C1574,30.0,Male,Accra,2026-03-03,Mobile,Bronze
+C1575,48.0,Female,Tamale,2023-07-05,Tablet,Platinum
+C1576,58.0,Male,Kumasi,2024-12-29,Mobile,Gold
+C1577,28.0,Female,Tamale,2024-06-07,Mobile,Silver
+C1578,21.0,Male,Cape Coast,2024-05-10,Mobile,Platinum
+C1579,51.0,Male,Takoradi,2023-09-03,Desktop,Platinum
+C1580,55.0,Male,Cape Coast,2025-10-27,Mobile,Silver
+C1581,63.0,Male,Cape Coast,2025-12-16,Mobile,Gold
+C1582,21.0,Male,Tamale,2024-09-03,Tablet,Silver
+C1583,55.0,Female,Accra,2025-03-06,Mobile,Bronze
+C1584,36.0,Male,Tamale,2025-05-26,,Silver
+C1585,23.0,Male,Accra,2025-07-03,Mobile,Gold
+C1586,51.0,Female,Kumasi,2025-06-23,Desktop,Gold
+C1587,35.0,Female,Cape Coast,2025-04-12,Desktop,Bronze
+C1588,30.0,Male,Accra,2026-01-20,Tablet,Silver
+C1589,58.0,Male,Accra,2025-05-20,Desktop,Bronze
+C1590,,Male,Kumasi,2024-09-08,Tablet,Platinum
+C1591,36.0,Female,Tamale,2024-03-14,Mobile,Gold
+C1592,62.0,Male,Accra,2023-10-21,Desktop,Silver
+C1593,28.0,Male,Kumasi,2025-12-09,Tablet,Platinum
+C1594,18.0,Male,Tamale,2024-02-12,Mobile,Bronze
+C1595,41.0,Female,Cape Coast,2025-03-17,Desktop,Bronze
+C1596,,Female,Kumasi,2026-02-14,Mobile,Platinum
+C1597,42.0,Male,Tamale,2024-11-20,Desktop,Silver
+C1598,38.0,Female,Kumasi,2025-08-11,Tablet,Gold
+C1599,32.0,Female,Kumasi,2024-06-17,Desktop,Silver
+C1600,18.0,Male,Cape Coast,2024-10-10,Mobile,Gold
+C1601,29.0,Male,Accra,2024-07-20,Desktop,Platinum
+C1602,24.0,Female,Kumasi,2025-07-16,Desktop,Silver
+C1603,32.0,Female,Cape Coast,2026-03-12,Mobile,Silver
+C1604,38.0,Male,Accra,2023-12-16,Desktop,Platinum
+C1605,36.0,Male,Cape Coast,2026-01-21,Desktop,Platinum
+C1606,46.0,Female,Accra,2023-08-14,Tablet,Platinum
+C1607,42.0,Male,Kumasi,2025-08-18,Desktop,Platinum
+C1608,50.0,Male,Cape Coast,2026-04-11,Mobile,Bronze
+C1609,66.0,Female,Accra,2024-02-13,Mobile,Platinum
+C1610,49.0,Male,Tamale,2025-04-24,Tablet,Platinum
+C1611,66.0,Female,Accra,2024-03-16,,Platinum
+C1612,52.0,Male,Accra,2024-09-04,Tablet,Bronze
+C1613,61.0,Female,Kumasi,2026-03-25,Mobile,Gold
+C1614,55.0,Female,Kumasi,2024-03-09,Tablet,Bronze
+C1615,43.0,Male,Tamale,2026-04-11,Tablet,Gold
+C1616,28.0,Male,Tamale,2024-04-05,Tablet,Bronze
+C1617,52.0,Female,Tamale,2023-09-13,Mobile,Platinum
+C1618,25.0,Male,Takoradi,2024-02-25,Tablet,Platinum
+C1619,63.0,Male,Accra,2025-09-28,Desktop,Gold
+C1620,31.0,Male,Takoradi,2024-05-28,Desktop,Gold
+C1621,27.0,Male,Accra,2024-02-11,Tablet,Gold
+C1622,19.0,Male,Cape Coast,2024-11-22,Tablet,Gold
+C1623,63.0,Male,Accra,2025-11-28,Desktop,Gold
+C1624,,Female,Cape Coast,2024-01-24,Mobile,Gold
+C1625,20.0,Female,Kumasi,2024-04-29,Tablet,Bronze
+C1626,38.0,Male,Kumasi,2024-09-17,Desktop,Silver
+C1627,43.0,Male,Tamale,2023-11-11,Tablet,Silver
+C1628,25.0,Male,Takoradi,2025-02-06,Desktop,Gold
+C1629,65.0,Female,Takoradi,2023-10-13,Mobile,Bronze
+C1630,19.0,Female,Takoradi,2025-09-26,,Platinum
+C1631,23.0,Male,Tamale,2023-09-07,Tablet,Gold
+C1632,45.0,Female,Cape Coast,2024-06-05,Desktop,Bronze
+C1633,46.0,Male,Tamale,2023-10-02,Mobile,Bronze
+C1634,43.0,Female,Kumasi,2026-03-17,Desktop,Bronze
+C1635,42.0,Male,Kumasi,2025-09-11,Desktop,Bronze
+C1636,29.0,Male,Tamale,2024-07-29,Mobile,Silver
+C1637,22.0,Male,Takoradi,2026-04-18,Desktop,Silver
+C1638,51.0,Female,Takoradi,2024-06-26,Desktop,Platinum
+C1639,65.0,Male,Takoradi,2025-07-07,Mobile,Bronze
+C1640,54.0,Male,Kumasi,2024-08-05,Tablet,Gold
+C1641,32.0,Female,Cape Coast,2023-06-20,Desktop,Gold
+C1642,61.0,Female,Cape Coast,2024-09-21,Tablet,Platinum
+C1643,53.0,Female,Takoradi,2025-02-01,,Silver
+C1644,32.0,Female,Kumasi,2026-04-01,Desktop,Silver
+C1645,,Female,Takoradi,2023-07-08,Desktop,Bronze
+C1646,65.0,Male,Takoradi,2024-07-24,Desktop,Platinum
+C1647,40.0,Male,Cape Coast,2024-06-17,Mobile,Gold
+C1648,23.0,Male,Kumasi,2025-02-22,Tablet,Silver
+C1649,63.0,Male,Kumasi,2023-09-18,Mobile,Bronze
+C1650,67.0,Female,Cape Coast,2025-12-28,Mobile,Platinum
+C1651,61.0,Female,Takoradi,2024-08-26,Mobile,Silver
+C1652,60.0,Male,Takoradi,2025-03-27,Desktop,Silver
+C1653,62.0,Female,Tamale,2026-01-30,Tablet,Silver
+C1654,38.0,Female,Accra,2024-10-14,Mobile,Platinum
+C1655,40.0,Female,Kumasi,2023-08-30,Desktop,Gold
+C1656,60.0,Male,Accra,2023-10-10,Tablet,Gold
+C1657,33.0,Female,Tamale,2023-09-27,,Silver
+C1658,64.0,Female,Takoradi,2024-06-06,Tablet,Bronze
+C1659,32.0,Female,Accra,2024-09-04,Mobile,Bronze
+C1660,42.0,Female,Accra,2026-03-26,Desktop,Silver
+C1661,53.0,Female,Takoradi,2024-09-28,Mobile,Gold
+C1662,28.0,Male,Cape Coast,2024-05-02,Tablet,Silver
+C1663,68.0,Male,Takoradi,2023-08-31,Mobile,Bronze
+C1664,32.0,Male,Cape Coast,2026-01-13,Desktop,Bronze
+C1665,21.0,Female,Kumasi,2024-11-29,Desktop,Gold
+C1666,38.0,Male,Takoradi,2025-09-16,Desktop,Silver
+C1667,,Female,Takoradi,2023-11-14,Desktop,Gold
+C1668,39.0,Male,Takoradi,2026-04-04,Desktop,Gold
+C1669,36.0,Female,Tamale,2026-01-01,Tablet,Bronze
+C1670,51.0,Male,Tamale,2025-11-10,Tablet,Platinum
+C1671,31.0,Female,Takoradi,2025-11-23,Mobile,Platinum
+C1672,21.0,Female,Kumasi,2023-08-17,Tablet,Bronze
+C1673,,Male,Kumasi,2025-10-10,Desktop,Platinum
+C1674,69.0,Female,Accra,2025-01-11,Tablet,Platinum
+C1675,63.0,Male,Accra,2025-01-25,Desktop,Gold
+C1676,44.0,Female,Kumasi,2026-05-04,Tablet,Platinum
+C1677,,Male,Kumasi,2024-10-19,,Platinum
+C1678,64.0,Female,Cape Coast,2024-12-12,Desktop,Bronze
+C1679,45.0,Female,Cape Coast,2023-10-24,Desktop,Platinum
+C1680,52.0,Female,Kumasi,2024-10-04,Mobile,Bronze
+C1681,25.0,Male,Takoradi,2024-12-09,Desktop,Platinum
+C1682,33.0,Male,Takoradi,2024-10-17,Desktop,Silver
+C1683,59.0,Female,Kumasi,2026-02-12,Mobile,Bronze
+C1684,53.0,Female,Tamale,2025-04-30,Mobile,Gold
+C1685,47.0,Female,Cape Coast,2026-05-24,Desktop,Gold
+C1686,35.0,Female,Accra,2025-06-30,Desktop,Bronze
+C1687,19.0,Female,Kumasi,2023-10-09,,Bronze
+C1688,66.0,Male,Takoradi,2023-07-05,Desktop,Silver
+C1689,30.0,Female,Kumasi,2026-03-23,Mobile,Gold
+C1690,21.0,Female,Tamale,2026-05-20,Tablet,Gold
+C1691,43.0,Male,Takoradi,2025-07-07,Desktop,Bronze
+C1692,42.0,Male,Kumasi,2024-11-26,Mobile,Silver
+C1693,47.0,Female,Takoradi,2025-09-15,Tablet,Gold
+C1694,28.0,Female,Takoradi,2026-01-02,Mobile,Gold
+C1695,24.0,Male,Accra,2024-10-13,Mobile,Gold
+C1696,48.0,Female,Tamale,2024-09-24,Desktop,Gold
+C1697,61.0,Male,Accra,2024-08-03,Mobile,Silver
+C1698,27.0,Male,Kumasi,2023-11-24,Tablet,Bronze
+C1699,56.0,Female,Tamale,2024-10-17,Mobile,Bronze
+C1700,30.0,Male,Accra,2024-03-29,Desktop,Gold
+C1701,48.0,Female,Takoradi,2025-03-22,Mobile,Platinum
+C1702,24.0,Female,Kumasi,2024-06-27,Tablet,Gold
+C1703,66.0,Male,Accra,2023-08-12,Mobile,Silver
+C1704,59.0,Male,Kumasi,2025-04-03,Desktop,Silver
+C1705,59.0,Male,Kumasi,2023-12-02,Mobile,Platinum
+C1706,53.0,Male,Accra,2026-01-31,Mobile,Platinum
+C1707,37.0,Female,Accra,2026-01-30,Mobile,Bronze
+C1708,21.0,Male,Cape Coast,2023-06-15,Tablet,Bronze
+C1709,24.0,Female,Accra,2025-07-27,Desktop,Bronze
+C1710,18.0,Male,Takoradi,2024-03-26,,Bronze
+C1711,61.0,Male,Accra,2023-12-24,Tablet,Silver
+C1712,62.0,Male,Kumasi,2025-02-25,Tablet,Gold
+C1713,59.0,Male,Accra,2026-05-28,Mobile,Gold
+C1714,64.0,Female,Takoradi,2023-11-29,Mobile,Silver
+C1715,30.0,Male,Accra,2026-03-22,Tablet,Bronze
+C1716,39.0,Male,Kumasi,2023-10-08,Desktop,Silver
+C1717,38.0,Male,Accra,2024-11-10,Mobile,Platinum
+C1718,39.0,Female,Cape Coast,2024-08-07,Mobile,Platinum
+C1719,45.0,Male,Kumasi,2025-04-26,Desktop,Platinum
+C1720,26.0,Female,Kumasi,2024-07-02,,Silver
+C1721,43.0,Female,Accra,2024-11-16,Desktop,Bronze
+C1722,26.0,Female,Accra,2024-05-17,Tablet,Silver
+C1723,32.0,Female,Takoradi,2025-04-02,Tablet,Gold
+C1724,27.0,Male,Accra,2026-06-05,Desktop,Platinum
+C1725,41.0,Male,Tamale,2023-07-09,Desktop,Platinum
+C1726,59.0,Female,Tamale,2024-06-27,Mobile,Platinum
+C1727,25.0,Female,Tamale,2024-07-25,Mobile,Bronze
+C1728,41.0,Female,Takoradi,2025-10-12,Mobile,Bronze
+C1729,33.0,Female,Accra,2026-01-10,Desktop,Platinum
+C1730,66.0,Male,Accra,2025-08-26,Mobile,Platinum
+C1731,43.0,Female,Cape Coast,2023-10-15,Mobile,Silver
+C1732,44.0,Male,Takoradi,2025-04-22,Mobile,Gold
+C1733,54.0,Male,Cape Coast,2024-10-21,Desktop,Bronze
+C1734,21.0,Male,Tamale,2026-04-19,Tablet,Platinum
+C1735,67.0,Female,Cape Coast,2025-05-17,Tablet,Gold
+C1736,41.0,Female,Takoradi,2024-11-12,Desktop,Platinum
+C1737,36.0,Female,Cape Coast,2023-06-14,Desktop,Silver
+C1738,53.0,Female,Accra,2024-08-21,Mobile,Gold
+C1739,56.0,Female,Tamale,2026-05-16,Mobile,Silver
+C1740,27.0,Male,Accra,2025-07-04,Tablet,Bronze
+C1741,42.0,Male,Tamale,2026-05-20,Tablet,Bronze
+C1742,,Male,Tamale,2023-11-05,Tablet,Gold
+C1743,36.0,Male,Takoradi,2026-02-26,Tablet,Bronze
+C1744,53.0,Male,Cape Coast,2024-04-22,Desktop,Platinum
+C1745,27.0,Male,Takoradi,2023-08-28,Tablet,Platinum
+C1746,,Female,Cape Coast,2025-09-18,Desktop,Gold
+C1747,67.0,Male,Accra,2023-10-28,Desktop,Bronze
+C1748,22.0,Female,Tamale,2026-03-16,Desktop,Platinum
+C1749,64.0,Female,Tamale,2026-02-20,Mobile,Bronze
+C1750,66.0,Male,Cape Coast,2023-12-30,Tablet,Gold
+C1751,52.0,Male,Tamale,2025-05-27,,Silver
+C1752,,Female,Tamale,2026-05-09,Desktop,Bronze
+C1753,51.0,Female,Cape Coast,2024-09-11,Tablet,Platinum
+C1754,50.0,Female,Cape Coast,2025-07-17,Mobile,Bronze
+C1755,38.0,Female,Takoradi,2023-12-17,Desktop,Platinum
+C1756,34.0,Female,Takoradi,2023-10-27,Desktop,Bronze
+C1757,39.0,Male,Cape Coast,2025-01-20,Mobile,Silver
+C1758,65.0,Female,Takoradi,2025-10-14,Tablet,Bronze
+C1759,54.0,Female,Tamale,2026-01-13,Mobile,Platinum
+C1760,32.0,Female,Takoradi,2024-05-11,Desktop,Gold
+C1761,52.0,Male,Kumasi,2026-04-28,Mobile,Silver
+C1762,45.0,Female,Cape Coast,2025-03-05,Mobile,Bronze
+C1763,24.0,Female,Accra,2024-12-17,Desktop,Silver
+C1764,49.0,Male,Cape Coast,2023-08-19,Desktop,Bronze
+C1765,28.0,Female,Tamale,2025-06-03,Tablet,Platinum
+C1766,27.0,Female,Accra,2024-04-11,Tablet,Platinum
+C1767,26.0,Male,Takoradi,2026-05-22,Desktop,Platinum
+C1768,31.0,Female,Cape Coast,2026-04-15,Mobile,Platinum
+C1769,30.0,Male,Kumasi,2024-04-14,Desktop,Platinum
+C1770,42.0,Female,Kumasi,2024-03-05,Tablet,Gold
+C1771,,Female,Tamale,2023-09-03,Mobile,Platinum
+C1772,52.0,Male,Cape Coast,2025-08-23,Mobile,Gold
+C1773,24.0,Female,Accra,2025-10-10,Desktop,Platinum
+C1774,38.0,Male,Cape Coast,2026-01-11,Tablet,Bronze
+C1775,35.0,Male,Cape Coast,2026-04-13,Desktop,Gold
+C1776,20.0,Male,Cape Coast,2025-09-09,,Platinum
+C1777,59.0,Female,Kumasi,2025-09-25,Desktop,Bronze
+C1778,56.0,Female,Cape Coast,2026-05-15,,Platinum
+C1779,58.0,Female,Kumasi,2026-03-09,Desktop,Platinum
+C1780,66.0,Female,Cape Coast,2026-01-30,Tablet,Platinum
+C1781,28.0,Male,Accra,2025-01-18,Tablet,Silver
+C1782,56.0,Female,Kumasi,2024-06-09,Tablet,Platinum
+C1783,41.0,Female,Cape Coast,2024-10-06,Tablet,Platinum
+C1784,63.0,Male,Cape Coast,2025-06-30,Mobile,Gold
+C1785,36.0,Female,Kumasi,2025-04-02,Mobile,Silver
+C1786,21.0,Female,Tamale,2025-12-18,Desktop,Gold
+C1787,43.0,Male,Kumasi,2023-10-19,Desktop,Gold
+C1788,55.0,Female,Kumasi,2024-11-09,Desktop,Silver
+C1789,59.0,Female,Kumasi,2024-03-24,Mobile,Silver
+C1790,49.0,Male,Accra,2025-10-18,,Gold
+C1791,56.0,Female,Tamale,2026-03-22,Tablet,Platinum
+C1792,62.0,Female,Accra,2023-07-02,Mobile,Silver
+C1793,63.0,Female,Kumasi,2024-01-09,Mobile,Gold
+C1794,53.0,Female,Cape Coast,2025-06-22,Mobile,Bronze
+C1795,57.0,Female,Accra,2026-04-15,Mobile,Bronze
+C1796,54.0,Female,Cape Coast,2025-07-17,,Bronze
+C1797,50.0,Female,Takoradi,2025-05-04,Tablet,Bronze
+C1798,53.0,Female,Kumasi,2026-01-17,Mobile,Bronze
+C1799,20.0,Male,Cape Coast,2023-09-20,Tablet,Gold
+C1800,26.0,Female,Accra,2026-01-14,Mobile,Bronze
+C1801,25.0,Female,Takoradi,2025-11-17,Tablet,Platinum
+C1802,50.0,Male,Tamale,2023-09-26,,Silver
+C1803,23.0,Male,Kumasi,2025-11-29,Mobile,Gold
+C1804,58.0,Female,Tamale,2025-08-11,Desktop,Bronze
+C1805,56.0,Female,Cape Coast,2023-10-29,Desktop,Bronze
+C1806,21.0,Female,Cape Coast,2026-01-27,Desktop,Platinum
+C1807,30.0,Male,Takoradi,2024-03-31,Mobile,Gold
+C1808,66.0,Female,Takoradi,2024-04-15,Desktop,Bronze
+C1809,19.0,Male,Accra,2025-12-12,Tablet,Silver
+C1810,22.0,Female,Cape Coast,2024-12-07,Desktop,Gold
+C1811,61.0,Female,Accra,2025-06-07,Tablet,Silver
+C1812,44.0,Female,Tamale,2023-06-11,Mobile,Platinum
+C1813,49.0,Female,Takoradi,2024-04-03,Mobile,Silver
+C1814,38.0,Female,Kumasi,2024-10-03,Mobile,Platinum
+C1815,25.0,Female,Tamale,2025-04-29,Mobile,Gold
+C1816,55.0,Male,Tamale,2025-09-03,Desktop,Platinum
+C1817,25.0,Female,Tamale,2023-10-03,Mobile,Silver
+C1818,67.0,Female,Cape Coast,2024-11-12,Mobile,Gold
+C1819,20.0,Female,Cape Coast,2024-08-28,Tablet,Gold
+C1820,61.0,Female,Accra,2025-04-09,Mobile,Silver
+C1821,20.0,Female,Kumasi,2025-11-02,Mobile,Platinum
+C1822,39.0,Male,Takoradi,2023-08-08,Desktop,Bronze
+C1823,23.0,Male,Kumasi,2024-02-24,Mobile,Silver
+C1824,19.0,Female,Takoradi,2025-10-29,Desktop,Platinum
+C1825,40.0,Male,Takoradi,2026-01-03,Mobile,Gold
+C1826,61.0,Female,Kumasi,2024-09-27,Mobile,Platinum
+C1827,19.0,Female,Kumasi,2024-09-04,Desktop,Platinum
+C1828,55.0,Male,Accra,2025-10-19,Mobile,Silver
+C1829,34.0,Male,Tamale,2025-12-29,Mobile,Gold
+C1830,52.0,Male,Accra,2023-12-11,Desktop,Platinum
+C1831,51.0,Female,Kumasi,2024-08-17,Mobile,Gold
+C1832,40.0,Male,Cape Coast,2026-03-12,Mobile,Bronze
+C1833,47.0,Female,Tamale,2024-05-04,Tablet,Platinum
+C1834,69.0,Male,Kumasi,2023-06-13,,Silver
+C1835,25.0,Male,Takoradi,2024-05-27,Desktop,Platinum
+C1836,39.0,Female,Kumasi,2026-02-27,Desktop,Silver
+C1837,61.0,Male,Takoradi,2024-12-25,Tablet,Silver
+C1838,53.0,Female,Kumasi,2025-08-05,Desktop,Silver
+C1839,22.0,Male,Takoradi,2025-07-28,Desktop,Silver
+C1840,,Female,Kumasi,2026-01-03,Desktop,Platinum
+C1841,46.0,Male,Accra,2025-04-04,Desktop,Silver
+C1842,48.0,Female,Tamale,2023-10-21,Tablet,Silver
+C1843,64.0,Female,Tamale,2023-09-05,Tablet,Gold
+C1844,33.0,Male,Accra,2024-02-06,Tablet,Bronze
+C1845,59.0,Male,Takoradi,2023-12-09,Mobile,Platinum
+C1846,47.0,Female,Cape Coast,2026-02-09,Tablet,Bronze
+C1847,,Male,Takoradi,2026-04-11,Tablet,Platinum
+C1848,29.0,Female,Tamale,2025-03-28,Tablet,Gold
+C1849,34.0,Male,Cape Coast,2026-01-26,Mobile,Silver
+C1850,33.0,Female,Kumasi,2023-09-09,,Platinum
+C1851,29.0,Female,Tamale,2026-05-16,Mobile,Bronze
+C1852,25.0,Female,Cape Coast,2025-10-01,Desktop,Silver
+C1853,37.0,Female,Accra,2023-08-02,Desktop,Bronze
+C1854,20.0,Male,Tamale,2024-09-19,Desktop,Gold
+C1855,33.0,Female,Takoradi,2025-01-22,Desktop,Gold
+C1856,47.0,Female,Tamale,2024-07-16,Mobile,Gold
+C1857,62.0,Female,Kumasi,2024-01-20,Tablet,Platinum
+C1858,40.0,Male,Kumasi,2023-08-05,Mobile,Bronze
+C1859,45.0,Male,Kumasi,2023-09-28,Mobile,Platinum
+C1860,68.0,Female,Kumasi,2025-01-14,Tablet,Platinum
+C1861,57.0,Female,Accra,2025-06-09,Desktop,Bronze
+C1862,22.0,Female,Takoradi,2023-12-20,,Platinum
+C1863,37.0,Female,Tamale,2023-12-07,Mobile,Silver
+C1864,57.0,Male,Takoradi,2024-07-30,Mobile,Silver
+C1865,61.0,Female,Kumasi,2025-11-15,Mobile,Gold
+C1866,18.0,Male,Cape Coast,2023-09-12,Mobile,Silver
+C1867,47.0,Female,Accra,2024-02-03,Mobile,Platinum
+C1868,38.0,Male,Takoradi,2023-07-30,Mobile,Gold
+C1869,37.0,Male,Tamale,2024-03-27,Desktop,Bronze
+C1870,23.0,Female,Kumasi,2023-12-30,Mobile,Bronze
+C1871,39.0,Female,Tamale,2025-10-31,,Gold
+C1872,35.0,Male,Takoradi,2025-02-27,Mobile,Platinum
+C1873,25.0,Female,Cape Coast,2024-10-15,Mobile,Silver
+C1874,56.0,Male,Takoradi,2023-08-19,Desktop,Bronze
+C1875,49.0,Male,Cape Coast,2025-12-10,Tablet,Platinum
+C1876,50.0,Male,Tamale,2024-02-17,Desktop,Silver
+C1877,33.0,Male,Tamale,2025-02-17,Mobile,Bronze
+C1878,29.0,Male,Kumasi,2025-08-01,Desktop,Platinum
+C1879,55.0,Female,Kumasi,2025-01-10,Mobile,Gold
+C1880,69.0,Female,Tamale,2025-03-23,Tablet,Gold
+C1881,51.0,Male,Takoradi,2023-09-04,Tablet,Bronze
+C1882,31.0,Female,Cape Coast,2025-11-14,Mobile,Platinum
+C1883,53.0,Female,Tamale,2023-07-08,Desktop,Gold
+C1884,50.0,Female,Accra,2023-06-22,Desktop,Gold
+C1885,40.0,Male,Tamale,2025-10-28,Tablet,Platinum
+C1886,67.0,Male,Accra,2023-12-18,Tablet,Gold
+C1887,62.0,Female,Kumasi,2023-07-07,Tablet,Silver
+C1888,19.0,Female,Cape Coast,2025-10-26,Tablet,Bronze
+C1889,58.0,Female,Tamale,2025-04-12,Desktop,Bronze
+C1890,38.0,Female,Takoradi,2025-12-28,Mobile,Silver
+C1891,,Female,Kumasi,2024-05-29,Tablet,Platinum
+C1892,44.0,Female,Cape Coast,2023-12-13,Mobile,Bronze
+C1893,26.0,Male,Cape Coast,2024-09-09,Mobile,Platinum
+C1894,18.0,Female,Accra,2025-04-18,Desktop,Gold
+C1895,28.0,Female,Takoradi,2024-01-11,Tablet,Bronze
+C1896,20.0,Male,Accra,2025-06-08,Tablet,Platinum
+C1897,69.0,Male,Kumasi,2025-04-23,Desktop,Bronze
+C1898,40.0,Male,Tamale,2024-07-19,Tablet,Gold
+C1899,43.0,Female,Cape Coast,2024-11-14,Tablet,Platinum
+C1900,,Female,Cape Coast,2026-05-01,Desktop,Gold
+C1901,35.0,Male,Kumasi,2025-05-25,Mobile,Bronze
+C1902,,Female,Accra,2023-11-23,Desktop,Bronze
+C1903,52.0,Male,Tamale,2025-05-20,Mobile,Bronze
+C1904,39.0,Male,Tamale,2024-04-15,Desktop,Platinum
+C1905,,Female,Takoradi,2025-04-08,Tablet,Gold
+C1906,32.0,Female,Takoradi,2025-01-07,Mobile,Silver
+C1907,39.0,Male,Accra,2023-06-28,Mobile,Bronze
+C1908,54.0,Male,Kumasi,2025-11-24,Mobile,Silver
+C1909,69.0,Female,Kumasi,2025-06-02,,Silver
+C1910,59.0,Female,Cape Coast,2026-03-18,Mobile,Bronze
+C1911,29.0,Female,Tamale,2026-05-07,,Platinum
+C1912,64.0,Female,Accra,2024-07-01,Mobile,Silver
+C1913,66.0,Male,Tamale,2025-10-28,Desktop,Platinum
+C1914,59.0,Male,Tamale,2024-12-26,Tablet,Silver
+C1915,55.0,Male,Takoradi,2025-10-02,Tablet,Platinum
+C1916,35.0,Male,Takoradi,2025-07-05,Mobile,Bronze
+C1917,62.0,Female,Tamale,2025-12-17,Desktop,Gold
+C1918,52.0,Male,Tamale,2025-11-22,Desktop,Platinum
+C1919,47.0,Female,Kumasi,2023-09-09,Tablet,Bronze
+C1920,41.0,Male,Tamale,2025-04-30,Tablet,Gold
+C1921,59.0,Male,Takoradi,2024-12-17,Tablet,Platinum
+C1922,47.0,Female,Accra,2024-10-12,Desktop,Gold
+C1923,,Female,Tamale,2025-04-09,,Silver
+C1924,23.0,Female,Kumasi,2025-07-19,Desktop,Gold
+C1925,20.0,Female,Kumasi,2023-09-19,Tablet,Silver
+C1926,33.0,Female,Cape Coast,2024-10-05,Tablet,Platinum
+C1927,24.0,Male,Takoradi,2024-03-10,Tablet,Platinum
+C1928,69.0,Female,Takoradi,2025-12-09,Desktop,Silver
+C1929,31.0,Male,Takoradi,2023-08-02,Tablet,Bronze
+C1930,26.0,Female,Kumasi,2023-11-04,Mobile,Silver
+C1931,32.0,Male,Cape Coast,2024-08-27,,Bronze
+C1932,38.0,Female,Tamale,2024-05-07,Desktop,Silver
+C1933,52.0,Male,Cape Coast,2026-03-13,Mobile,Bronze
+C1934,19.0,Female,Takoradi,2024-07-30,Desktop,Silver
+C1935,44.0,Male,Cape Coast,2025-07-26,,Bronze
+C1936,19.0,Female,Tamale,2025-04-25,Mobile,Silver
+C1937,52.0,Male,Cape Coast,2025-05-23,Mobile,Platinum
+C1938,35.0,Female,Takoradi,2024-03-17,Desktop,Bronze
+C1939,31.0,Female,Kumasi,2024-12-02,Tablet,Bronze
+C1940,37.0,Male,Tamale,2023-08-17,Desktop,Bronze
+C1941,35.0,Male,Cape Coast,2024-09-17,Tablet,Bronze
+C1942,27.0,Male,Cape Coast,2025-06-30,Mobile,Silver
+C1943,42.0,Male,Kumasi,2023-12-09,Desktop,Silver
+C1944,,Female,Tamale,2024-03-31,Tablet,Platinum
+C1945,42.0,Male,Kumasi,2024-10-29,Tablet,Gold
+C1946,50.0,Female,Kumasi,2024-11-27,Mobile,Silver
+C1947,53.0,Female,Tamale,2024-03-26,Mobile,Silver
+C1948,48.0,Female,Takoradi,2024-04-09,Desktop,Silver
+C1949,31.0,Male,Takoradi,2024-08-09,Desktop,Platinum
+C1950,18.0,Female,Kumasi,2025-04-19,Mobile,Platinum
+C1951,63.0,Male,Kumasi,2024-05-31,Desktop,Platinum
+C1952,33.0,Female,Tamale,2024-09-02,Tablet,Gold
+C1953,63.0,Male,Tamale,2023-08-24,Mobile,Bronze
+C1954,69.0,Male,Accra,2025-10-09,Desktop,Gold
+C1955,20.0,Female,Kumasi,2026-03-08,Desktop,Bronze
+C1956,52.0,Female,Accra,2023-12-12,Tablet,Silver
+C1957,58.0,Male,Cape Coast,2026-01-06,Desktop,Platinum
+C1958,23.0,Female,Cape Coast,2025-11-29,Desktop,Gold
+C1959,42.0,Female,Accra,2025-11-05,Desktop,Silver
+C1960,30.0,Female,Tamale,2026-03-22,Tablet,Silver
+C1961,51.0,Female,Takoradi,2025-04-16,Tablet,Platinum
+C1962,25.0,Male,Takoradi,2026-03-07,Mobile,Bronze
+C1963,38.0,Female,Tamale,2023-06-28,Tablet,Silver
+C1964,51.0,Female,Kumasi,2025-09-14,Mobile,Gold
+C1965,21.0,Female,Kumasi,2026-01-27,,Bronze
+C1966,42.0,Female,Kumasi,2024-12-31,Desktop,Platinum
+C1967,32.0,Male,Accra,2024-02-19,Desktop,Gold
+C1968,21.0,Female,Accra,2023-12-18,Mobile,Bronze
+C1969,62.0,Female,Takoradi,2025-04-21,Tablet,Bronze
+C1970,29.0,Female,Takoradi,2024-10-07,Mobile,Silver
+C1971,49.0,Female,Takoradi,2024-11-19,Desktop,Silver
+C1972,49.0,Female,Cape Coast,2025-11-23,Tablet,Silver
+C1973,45.0,Male,Takoradi,2023-06-22,Tablet,Silver
+C1974,30.0,Female,Tamale,2024-08-09,Mobile,Silver
+C1975,48.0,Female,Tamale,2024-09-26,Mobile,Bronze
+C1976,31.0,Male,Tamale,2026-05-16,Mobile,Platinum
+C1977,37.0,Male,Tamale,2024-02-24,Mobile,Gold
+C1978,35.0,Female,Cape Coast,2026-04-01,Tablet,Platinum
+C1979,46.0,Female,Cape Coast,2024-11-28,Desktop,Platinum
+C1980,23.0,Female,Tamale,2025-05-28,Tablet,Platinum
+C1981,49.0,Male,Kumasi,2024-02-19,Tablet,Silver
+C1982,46.0,Female,Tamale,2025-02-05,Mobile,Bronze
+C1983,60.0,Male,Tamale,2024-06-25,Desktop,Bronze
+C1984,19.0,Male,Cape Coast,2024-07-11,Desktop,Bronze
+C1985,40.0,Female,Accra,2025-02-27,Mobile,Gold
+C1986,36.0,Female,Accra,2024-07-15,Tablet,Silver
+C1987,48.0,Male,Takoradi,2024-04-07,Desktop,Gold
+C1988,68.0,Female,Takoradi,2023-06-28,Desktop,Bronze
+C1989,22.0,Male,Kumasi,2025-06-04,Tablet,Platinum
+C1990,36.0,Male,Takoradi,2024-02-27,Desktop,Silver
+C1991,51.0,Male,Tamale,2023-10-10,Mobile,Bronze
+C1992,27.0,Female,Accra,2025-08-13,Mobile,Platinum
+C1993,42.0,Female,Cape Coast,2023-12-07,Desktop,Platinum
+C1994,19.0,Female,Tamale,2024-12-04,Desktop,Silver
+C1995,28.0,Male,Cape Coast,2023-11-07,Tablet,Platinum
+C1996,67.0,Female,Tamale,2024-05-08,Mobile,Gold
+C1997,48.0,Male,Cape Coast,2024-12-15,Tablet,Platinum
+C1998,32.0,Female,Kumasi,2024-04-26,Desktop,Gold
+C1999,26.0,Male,Tamale,2026-01-29,Tablet,Gold
+C2000,40.0,Male,Kumasi,2025-01-11,Tablet,Bronze
+C0675,47.0,Female,Accra,2024-09-28,Desktop,Gold
+C1700,30.0,Male,Accra,2024-03-29,Desktop,Gold
+C1283,50.0,Female,Tamale,2024-08-10,,Platinum
+C1316,45.0,Male,Cape Coast,2025-05-24,Mobile,Gold
+C1211,67.0,Female,Tamale,2023-11-16,Desktop,Bronze
+C1637,22.0,Male,Takoradi,2026-04-18,Desktop,Silver
+C0614,67.0,Male,Accra,2026-04-11,Mobile,Platinum
+C0448,21.0,Male,Kumasi,2024-07-19,Tablet,Gold
+C1132,64.0,Male,Kumasi,2025-01-03,Tablet,Platinum
+C0809,34.0,Male,Kumasi,2026-05-05,Tablet,Silver
+C1497,59.0,Female,Kumasi,2024-10-31,Mobile,Gold
+C1469,54.0,Male,Kumasi,2026-04-09,Tablet,Gold
+C1683,59.0,Female,Kumasi,2026-02-12,Mobile,Bronze
+C1150,43.0,Male,Takoradi,2025-08-23,Mobile,Gold
+C0443,46.0,Male,Accra,2024-10-11,Desktop,Platinum
+C1814,38.0,Female,Kumasi,2024-10-03,Mobile,Platinum
+C0655,65.0,Female,Cape Coast,2024-10-25,Desktop,Platinum
+C1265,49.0,Female,Cape Coast,2023-09-23,Tablet,Gold
+C0859,69.0,Female,Accra,2024-07-12,Tablet,Platinum
+C1483,54.0,Female,Tamale,2025-04-02,Tablet,Platinum
+C0232,42.0,Male,Accra,2024-11-07,Desktop,Gold
+C1822,39.0,Male,Takoradi,2023-08-08,Desktop,Bronze
+C1927,24.0,Male,Takoradi,2024-03-10,Tablet,Platinum
+C0882,66.0,Female,Cape Coast,2024-07-28,Tablet,Gold
+C0632,52.0,Male,Takoradi,2025-06-22,Tablet,Bronze
+C0376,42.0,Male,Cape Coast,2024-06-16,,Bronze
+C1961,51.0,Female,Takoradi,2025-04-16,Tablet,Platinum
+C0368,52.0,Male,Cape Coast,2024-05-26,Tablet,Platinum
+C0559,37.0,Female,Kumasi,2024-08-30,Tablet,Gold
+C0276,57.0,Female,Tamale,2023-11-14,Desktop,Platinum
+C1978,35.0,Female,Cape Coast,2026-04-01,Tablet,Platinum
+C0875,60.0,Female,Cape Coast,2024-01-20,Desktop,Silver
+C1679,45.0,Female,Cape Coast,2023-10-24,Desktop,Platinum
+C0731,48.0,Male,Kumasi,2023-11-13,Mobile,Platinum
+C0574,36.0,Male,Tamale,2024-12-03,Mobile,Silver
+C0719,55.0,Male,Tamale,2023-09-27,Tablet,Bronze
+C0578,66.0,Male,Accra,2024-04-03,Tablet,Gold
+C0057,31.0,Female,Accra,2025-09-03,Desktop,Silver
+C0869,52.0,Female,Tamale,2024-05-22,Tablet,Bronze
+C1729,33.0,Female,Accra,2026-01-10,Desktop,Platinum

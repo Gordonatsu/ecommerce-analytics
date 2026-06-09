@@ -1,0 +1,201 @@
+product_id,category,price,avg_rating,stock_quantity
+P0001,Sports,190.4,4.9,106
+P0002,Electronics,390.95,4.0,121
+P0003,Electronics,82.22,2.6,87
+P0004,Sports,170.19,2.9,130
+P0005,Home & Living,15.19,4.9,491
+P0006,Fashion,469.58,2.5,443
+P0007,Fashion,95.79,3.3,21
+P0008,Fashion,8.5,2.6,474
+P0009,Sports,307.87,2.8,475
+P0010,Electronics,487.01,3.1,445
+P0011,Sports,393.66,3.0,54
+P0012,Sports,491.7,3.7,484
+P0013,Health & Beauty,305.73,2.9,166
+P0014,Electronics,11.57,4.9,13
+P0015,Health & Beauty,405.16,3.3,52
+P0016,Food & Grocery,119.29,3.1,443
+P0017,Electronics,65.41,3.7,430
+P0018,Electronics,90.82,3.5,49
+P0019,Electronics,332.95,3.3,389
+P0020,Fashion,107.93,3.9,476
+P0021,Fashion,484.94,4.4,161
+P0022,Health & Beauty,200.6,4.8,350
+P0023,Health & Beauty,461.33,2.7,214
+P0024,Electronics,262.81,4.9,212
+P0025,Health & Beauty,197.4,3.2,52
+P0026,Fashion,295.44,4.9,187
+P0027,Sports,273.63,2.9,14
+P0028,Sports,86.81,2.5,8
+P0029,Sports,387.26,3.0,471
+P0030,Health & Beauty,11.97,3.0,391
+P0031,Food & Grocery,365.86,4.4,260
+P0032,Fashion,463.52,4.1,27
+P0033,Food & Grocery,432.24,4.1,417
+P0034,Health & Beauty,52.23,3.4,61
+P0035,Home & Living,165.97,4.3,359
+P0036,Books,140.99,3.9,226
+P0037,Books,64.2,4.3,256
+P0038,Electronics,362.26,3.1,397
+P0039,Books,249.43,3.8,14
+P0040,Books,59.89,3.6,178
+P0041,Fashion,20.56,4.1,51
+P0042,Sports,283.82,4.2,484
+P0043,Food & Grocery,128.4,3.5,170
+P0044,Home & Living,105.52,4.9,326
+P0045,Home & Living,148.43,2.9,65
+P0046,Fashion,314.06,3.2,133
+P0047,Fashion,230.98,3.0,339
+P0048,Books,446.82,3.8,347
+P0049,Home & Living,181.37,4.8,384
+P0050,Electronics,117.83,3.6,115
+P0051,Electronics,179.52,3.3,197
+P0052,Food & Grocery,257.82,3.5,164
+P0053,Electronics,347.76,3.2,151
+P0054,Home & Living,471.74,3.3,95
+P0055,Books,281.26,3.5,317
+P0056,Home & Living,486.03,4.9,294
+P0057,Health & Beauty,251.14,3.3,112
+P0058,Home & Living,498.88,3.2,1
+P0059,Books,253.83,2.6,484
+P0060,Electronics,175.81,4.1,125
+P0061,Sports,76.72,3.7,159
+P0062,Food & Grocery,278.68,4.0,438
+P0063,Health & Beauty,382.0,3.1,254
+P0064,Electronics,402.55,3.7,97
+P0065,Food & Grocery,318.6,3.8,239
+P0066,Electronics,400.18,2.9,186
+P0067,Health & Beauty,97.33,2.6,147
+P0068,Home & Living,166.35,3.1,345
+P0069,Books,258.49,3.1,351
+P0070,Sports,52.61,4.9,423
+P0071,Health & Beauty,196.43,4.8,128
+P0072,Books,339.47,4.3,433
+P0073,Home & Living,462.72,4.7,98
+P0074,Health & Beauty,118.13,2.9,111
+P0075,Fashion,279.82,3.8,1
+P0076,Sports,498.15,4.9,452
+P0077,Electronics,450.71,4.1,8
+P0078,Electronics,143.04,4.3,207
+P0079,Sports,449.07,4.7,119
+P0080,Fashion,444.45,4.6,112
+P0081,Books,85.01,4.7,339
+P0082,Home & Living,292.44,3.4,472
+P0083,Electronics,333.43,2.5,383
+P0084,Books,156.16,3.7,162
+P0085,Fashion,327.72,3.1,160
+P0086,Books,13.95,3.7,303
+P0087,Electronics,374.51,4.1,134
+P0088,Food & Grocery,361.87,3.3,175
+P0089,Home & Living,51.37,3.4,374
+P0090,Food & Grocery,128.98,4.0,229
+P0091,Sports,199.58,4.7,282
+P0092,Books,220.03,3.4,96
+P0093,Home & Living,290.57,3.7,452
+P0094,Fashion,118.94,3.7,3
+P0095,Home & Living,17.04,4.1,16
+P0096,Home & Living,497.3,3.7,45
+P0097,Fashion,457.86,3.4,232
+P0098,Sports,476.77,3.3,301
+P0099,Home & Living,483.49,4.9,480
+P0100,Sports,42.3,3.3,415
+P0101,Sports,426.31,3.3,127
+P0102,Sports,189.48,3.5,53
+P0103,Electronics,349.53,3.9,279
+P0104,Health & Beauty,108.41,4.2,150
+P0105,Sports,74.34,3.8,385
+P0106,Fashion,164.66,4.6,392
+P0107,Health & Beauty,352.73,3.4,476
+P0108,Sports,151.77,3.5,305
+P0109,Fashion,434.2,4.8,390
+P0110,Fashion,253.25,4.5,320
+P0111,Food & Grocery,40.12,3.5,141
+P0112,Food & Grocery,445.55,3.3,91
+P0113,Home & Living,291.54,3.6,446
+P0114,Sports,22.79,3.7,62
+P0115,Sports,491.01,4.6,57
+P0116,Health & Beauty,20.1,2.6,325
+P0117,Fashion,155.12,3.8,100
+P0118,Sports,263.51,4.4,491
+P0119,Home & Living,482.8,3.6,261
+P0120,Books,30.58,3.8,46
+P0121,Books,351.26,2.8,143
+P0122,Books,488.05,3.8,157
+P0123,Electronics,25.33,3.5,274
+P0124,Fashion,222.29,2.7,228
+P0125,Books,96.25,2.7,126
+P0126,Electronics,349.51,3.5,57
+P0127,Books,458.03,3.6,95
+P0128,Home & Living,276.87,4.3,487
+P0129,Food & Grocery,467.63,4.1,188
+P0130,Home & Living,370.26,3.9,277
+P0131,Electronics,366.37,2.6,153
+P0132,Fashion,181.21,4.4,184
+P0133,Health & Beauty,174.23,2.7,46
+P0134,Sports,25.16,4.6,499
+P0135,Home & Living,91.79,2.5,473
+P0136,Fashion,248.35,3.7,288
+P0137,Sports,235.01,4.1,249
+P0138,Food & Grocery,309.85,4.1,289
+P0139,Food & Grocery,134.14,2.5,146
+P0140,Sports,254.05,4.6,324
+P0141,Food & Grocery,343.56,4.0,335
+P0142,Fashion,323.0,2.6,383
+P0143,Home & Living,320.02,4.5,395
+P0144,Fashion,197.14,4.1,416
+P0145,Fashion,406.55,4.6,267
+P0146,Sports,196.12,4.9,329
+P0147,Health & Beauty,107.31,3.2,11
+P0148,Health & Beauty,54.89,2.5,498
+P0149,Home & Living,311.04,3.3,89
+P0150,Sports,162.89,4.6,89
+P0151,Health & Beauty,173.61,3.2,390
+P0152,Food & Grocery,63.49,4.2,492
+P0153,Health & Beauty,468.64,2.6,216
+P0154,Food & Grocery,402.72,3.2,393
+P0155,Home & Living,214.62,3.9,226
+P0156,Fashion,495.3,3.5,465
+P0157,Fashion,128.76,4.0,150
+P0158,Health & Beauty,465.72,4.6,368
+P0159,Food & Grocery,341.52,4.3,354
+P0160,Electronics,56.05,4.8,61
+P0161,Books,250.8,3.5,396
+P0162,Electronics,448.28,3.5,395
+P0163,Books,479.48,4.6,264
+P0164,Electronics,163.06,4.9,383
+P0165,Fashion,243.85,3.7,143
+P0166,Sports,226.98,3.2,24
+P0167,Fashion,279.08,3.0,52
+P0168,Books,396.83,4.5,108
+P0169,Sports,465.81,4.9,397
+P0170,Food & Grocery,277.02,3.6,214
+P0171,Health & Beauty,275.23,4.3,238
+P0172,Electronics,75.78,4.4,491
+P0173,Food & Grocery,434.1,4.6,173
+P0174,Food & Grocery,351.98,2.7,433
+P0175,Health & Beauty,446.49,2.9,28
+P0176,Food & Grocery,46.99,5.0,495
+P0177,Health & Beauty,432.25,4.7,144
+P0178,Home & Living,473.89,5.0,131
+P0179,Health & Beauty,178.36,4.3,274
+P0180,Books,389.69,3.9,90
+P0181,Electronics,128.12,3.3,125
+P0182,Sports,248.85,2.5,219
+P0183,Sports,287.88,4.4,455
+P0184,Electronics,63.18,4.1,0
+P0185,Sports,342.11,3.1,190
+P0186,Health & Beauty,241.47,2.7,416
+P0187,Books,115.68,4.9,43
+P0188,Home & Living,489.06,3.9,302
+P0189,Books,446.12,3.8,202
+P0190,Sports,459.96,3.1,146
+P0191,Home & Living,484.8,3.8,232
+P0192,Electronics,112.32,3.2,0
+P0193,Home & Living,315.64,4.0,143
+P0194,Food & Grocery,369.86,4.8,329
+P0195,Fashion,475.45,4.7,459
+P0196,Food & Grocery,57.84,3.3,121
+P0197,Electronics,98.12,3.7,185
+P0198,Sports,118.55,3.2,356
+P0199,Sports,487.33,5.0,446
+P0200,Home & Living,270.37,3.3,211
