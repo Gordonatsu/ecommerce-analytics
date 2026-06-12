@@ -54,7 +54,7 @@ Select Kernel ➔ Restart & Run All to run the cells sequentially.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📁 Submission Directory Structure
+## 📁 Directory Structure
 
 ```bash
 ├── dataset_generator.py            # Script to generate raw transactional & behavioral data
@@ -67,7 +67,7 @@ Select Kernel ➔ Restart & Run All to run the cells sequentially.
     ├── browsing.csv                # Raw user clickstream and session micro-metrics
     └── purchases.csv               # Transactional history and payment logs
 ```
-## 📝 Contact & Candidate Details
+## 📝 Contact Details
 Candidate Name: Gordon D.K. Atsunyo
 
 Role Assessment: Intelligent Systems & Security Officer 
